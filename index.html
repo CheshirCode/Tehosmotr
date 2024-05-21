@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Даты техосмотра</title>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	<div class="wrapper">
+		<header></header>
+		<main>
+			<div class="greet">
+				<h2>Ув. Водители!</h2>
+
+				<p>Краткое пояснение:</p>
+				<p class="paragraph">Фон зеленый: у Вас есть время больше 15 дней до проведения <span>ТЕХНИЧЕСКОГО
+						ОСМОТРА(!)</span> (Далее-ТО). Счетчик внизу карточки
+					автомобиля отображает месяцы и дни до ТО.</p>
+				<p class="paragraph">Фон желтый: у Вас есть время меньше 15 дней до проведения ТО. Просьба проинформировать
+					ответственных лиц (логистов, механиков о предстоящем ТО).</p>
+				<p class="paragraph">Фон красный: <span>Вы просрочили ТО!</span></p>
+			</div>
+			<div class="search_field__container">
+				<input type="text" id="search" class="input" placeholder="Поиск по марке ТС или рег.номеру..."
+					oninput="filterObjects()">
+			</div>
+			<div class="technique">
+				<div class="trucks">
+					<h2>Тягачи</h2>
+					<div id="objects-container"></div>
+				</div>
+				<div class="truck_trailer">
+					<h2>Прицепы</h2>
+					<div id="objects-container1"></div>
+				</div>
+			</div>
+		</main>
+		<footer>
+			<div class="container">
+				<div class="copyright">dotmax group, СПб 2021-2024г. &#169;</div>
+			</div>
+		</footer>
+	</div>
+
+	<script src="js/script.js"></script>
+</body>
+
+</html>
