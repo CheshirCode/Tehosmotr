@@ -129,7 +129,7 @@ const objects = [
   {
     name: "В 368 СУ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2024-08-30"),
+    date: new Date("2024-10-17"),
   },
   {
     name: "В 395 ХТ 147",
@@ -256,7 +256,7 @@ const objects1 = [
   {
     name: "АО 5519 47",
     fullname: "SCHMITZ SC024L",
-    date: new Date("2024-05-30"),
+    date: new Date("2025-04-03"),
   },
   {
     name: "АР 7835 47",
@@ -391,7 +391,7 @@ const objects1 = [
   {
     name: "ВА 8177 47",
     fullname: "SCHMITZ SK024/L-16.8FP60 COOL",
-    date: new Date("2024-09-02"),
+    date: new Date("2026-05-25"),
   },
   {
     name: "ВА 8188 47",
