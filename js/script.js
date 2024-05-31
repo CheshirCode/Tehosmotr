@@ -144,7 +144,7 @@ const objects = [
   {
     name: "В 668 НЕ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2024-08-30"),
+    date: new Date("2025-05-27"),
   },
   {
     name: "В 669 ХС 147",
@@ -336,7 +336,7 @@ const objects1 = [
   {
     name: "АХ 7973 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
-    date: new Date("2024-09-02"),
+    date: new Date("2026-05-18"),
   },
   {
     name: "АХ 8037 47",
