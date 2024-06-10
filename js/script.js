@@ -428,7 +428,7 @@ const objects1 = [
   {
     name: "АХ 8038 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
-    date: new Date("2024-07-20"),
+    date: new Date("2026-01-13"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
@@ -470,7 +470,7 @@ const objects1 = [
   {
     name: "ВА 3797 47",
     fullname: "SCHMITZ SK024/L-13.4FP60 COOL",
-    date: new Date("2024-03-24"),
+    date: new Date("2026-01-15"),
     comment: "",
   },
   {
