@@ -29,7 +29,7 @@ html,
 body {
 	height: 100%;
 	font-family: var(--font-family);
-	font-size: 1rem;
+	font-size: 16px;
 	line-height: 1.5;
 	color: #000;
 	background: url('../img/zapchasti.jpg') 0 0/cover no-repeat fixed;
@@ -172,6 +172,7 @@ p {
 
 .technique {
 	display: flex;
+	flex-wrap: wrap;
 	margin: 10px;
 	padding: 10px;
 	border-radius: 7px;
@@ -180,12 +181,14 @@ p {
 }
 
 .trucks,
-.truck_trailer {
-	flex: 1 1 auto;
+.truck_trailer,
+.tacho-section {
+	flex: 1 1 30%;
 }
 
 .trucks h2,
-.truck_trailer h2 {
+.truck_trailer h2,
+.tacho-section h2 {
 	color: #fff;
 	font-size: 1.5 rem;
 	text-align: center;
@@ -195,8 +198,8 @@ p {
 .object {
 	background-color: var(--color-primary);
 	border: 2px solid #ccc;
-	margin: 10px;
-	padding: 10px;
+	margin: 5px;
+	padding: 5px;
 	border-radius: 7px;
 	line-height: 1.5;
 	color: #000;
@@ -208,7 +211,7 @@ h3 {
 
 .time-difference {
 	display: flex;
-	gap: 10px;
+	gap: 5px;
 }
 
 .months,
@@ -227,6 +230,53 @@ h3 {
 	background-color: var(--color-danger);
 	color: #fff;
 }
+
+/* Добавляем стили для нового класса "tacho" */
+.trucks,
+.truck_trailer,
+.tacho-section {
+
+	border: 2px solid #ccc;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 7px;
+	line-height: 1.5;
+	color: #000;
+}
+
+.trucks {
+	background-color: #67c101ce;
+}
+
+.truck_trailer {
+	background-color: #4ab0d9ce;
+}
+
+.tacho-section {
+	background-color: #030636ce;
+}
+
+.tacho {
+	background-color: var(--color-primary);
+	border: 2px solid #ccc;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 7px;
+	line-height: 1.5;
+	color: #000;
+}
+
+/* Применение тех же стилей для предупреждений и просрочек */
+.tacho.warning {
+	background-color: var(--color-warning);
+	color: #000;
+}
+
+.tacho.expired {
+	background-color: var(--color-danger);
+	color: #fff;
+}
+
 
 .footer {
 	width: 100%;
@@ -263,7 +313,13 @@ h3 {
 	}
 
 	.technique {
-		flex-direction: column;
+		flex-wrap: wrap;
+	}
+
+	.trucks,
+	.truck_trailer,
+	.tacho-section {
+		flex: 1 1 100%;
 	}
 
 	#search {
@@ -274,11 +330,7 @@ h3 {
 }
 
 @media (max-width: 500px) {
-	.technique {
-		display: flex;
-		flex-wrap: wrap;
-
-	}
+	.technique {}
 
 	.trucks,
 	.truck_trailer {
@@ -290,10 +342,9 @@ h3 {
 		width: calc(100% - 20px);
 	}
 
-	.time-difference,
+	/* .time-difference,
 	.months,
 	.days {
-
-		font-size: 24px;
-	}
+		font-size: 40px;
+	} */
 }
