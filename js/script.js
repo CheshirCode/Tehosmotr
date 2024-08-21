@@ -9,7 +9,7 @@ const objects = [
   {
     name: "К 613 КУ 147",
     fullname: "DAF XF 480 FT",
-    date: new Date("2024-08-09"),
+    date: new Date("2025-07-20"),
     comment: "",
   },
   {
@@ -34,12 +34,6 @@ const objects = [
     name: "В 915 РН 147",
     fullname: "RENAULT T 4x2",
     date: new Date("2024-08-30"),
-    comment: "",
-  },
-  {
-    name: "В 050 ТК 98",
-    fullname: "VOLVO FH-Truck 6x2",
-    date: new Date("2025-02-28"),
     comment: "",
   },
   {
@@ -71,6 +65,18 @@ const objects = [
     fullname: "Volvo FH-Truck 6x2",
     date: new Date("2025-03-27"),
     comment: "",
+  },
+  {
+    name: "без номера1",
+    fullname: "SANY HQC240DE",
+    date: new Date("2024-01-01"),
+    comment: "уточнить данные",
+  },
+  {
+    name: "без номера2",
+    fullname: "SANY HQC240DE",
+    date: new Date("2024-01-01"),
+    comment: "уточнить данные",
   },
   {
     name: "В 077 МК 147",
@@ -123,7 +129,7 @@ const objects = [
   {
     name: "В 403 МС 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-04-05"),
+    date: new Date("2025-06-14"),
     comment: "",
   },
   {
@@ -190,7 +196,7 @@ const objects = [
   {
     name: "В 669 ХС 147",
     fullname: "MERCEDES-BENZ ACTROS 1845LS",
-    date: new Date("2024-07-03"),
+    date: new Date("2025-07-09"),
     comment: "",
   },
   {
@@ -209,6 +215,12 @@ const objects = [
     name: "Е 135 КЕ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
     date: new Date("2024-12-27"),
+    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+  },
+  {
+    name: "Е 391 МК 147",
+    fullname: "MERCEDES-BENZ ACTROS 1848 LS",
+    date: new Date("2025-04-01"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
 
@@ -307,6 +319,30 @@ const objects = [
 ];
 
 const objects1 = [
+  {
+    name: "без номера 1",
+    fullname: "CTTM Cargoline 972240-02",
+    date: new Date("2024-07-01"),
+    comment: "уточнить данные",
+  },
+  {
+    name: "без номера 2",
+    fullname: "CTTM Cargoline 972240-02",
+    date: new Date("2024-07-01"),
+    comment: "уточнить данные",
+  },
+  {
+    name: "без номера 3",
+    fullname: "CTTM Cargoline 972240-02",
+    date: new Date("2024-07-01"),
+    comment: "уточнить данные",
+  },
+  {
+    name: "без номера 4",
+    fullname: "CTTM Cargoline 972240-02",
+    date: new Date("2024-07-01"),
+    comment: "уточнить данные",
+  },
   {
     name: "АН 3553 47",
     fullname: "VANHOOL S 332",
@@ -540,12 +576,6 @@ const objects1 = [
     comment: "",
   },
   {
-    name: "ВР 1656 78",
-    fullname: "KOGEL SNC024",
-    date: new Date("2025-03-07"),
-    comment: "",
-  },
-  {
     name: "ВР 4355 78",
     fullname: "KAESBOHRER",
     date: new Date("2024-08-14"),
@@ -592,21 +622,15 @@ const objects2 = [
     comment: "",
   },
   {
-    name: "В 050 ТК 98",
-    fullname: "VOLVO FH-Truck 6x2",
-    date: new Date("2024-05-01"),
-    comment: "Нет данных",
-  },
-  {
     name: "В 100 ТК 98",
     fullname: "VOLVO FH-Truck 6x2",
-    date: new Date("2024-05-01"),
-    comment: "Нет данных",
+    date: new Date("2025-02-15"),
+    comment: "",
   },
   {
     name: "В 531 ХС 147",
     fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2024-07-29"),
+    date: new Date("2025-07-24"),
     comment: "",
   },
   {
@@ -757,7 +781,7 @@ const objects2 = [
   {
     name: "В 998 ХР 147",
     fullname: "MERCEDES-BENZ ACTROS 1845LS",
-    date: new Date("2024-07-13"),
+    date: new Date("2026-07-12"),
     comment: "",
   },
   {
