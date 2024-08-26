@@ -45,7 +45,7 @@ const objects = [
   {
     name: "В 531 ХС 147",
     fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2024-07-29"),
+    date: new Date("2025-07-24"),
     comment: "",
   },
   {
@@ -67,13 +67,13 @@ const objects = [
     comment: "",
   },
   {
-    name: "без номера1",
+    name: "Е 456 МК 147",
     fullname: "SANY HQC240DE",
     date: new Date("2024-01-01"),
     comment: "уточнить данные",
   },
   {
-    name: "без номера2",
+    name: "К 586 СУ 147",
     fullname: "SANY HQC240DE",
     date: new Date("2024-01-01"),
     comment: "уточнить данные",
@@ -512,7 +512,7 @@ const objects1 = [
   {
     name: "ВА 4621 47",
     fullname: "SCHMITZ SCF24G",
-    date: new Date("2024-05-10"),
+    date: new Date("2025-05-08"),
     comment: "",
   },
   {
@@ -650,6 +650,18 @@ const objects2 = [
     fullname: "Volvo FH-Truck 6x2",
     date: new Date("2025-03-27"),
     comment: "",
+  },
+  {
+    name: "Е 456 МК 147",
+    fullname: "SANY HQC240DE",
+    date: new Date("2024-01-01"),
+    comment: "уточнить данные",
+  },
+  {
+    name: "К 586 СУ 147",
+    fullname: "SANY HQC240DE",
+    date: new Date("2024-01-01"),
+    comment: "уточнить данные",
   },
   {
     name: "В 077 МК 147",
