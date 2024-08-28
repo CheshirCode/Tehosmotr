@@ -177,6 +177,7 @@ p {
 	padding: 10px;
 	border-radius: 7px;
 	width: 100%;
+	justify-content: space-around;
 
 }
 
