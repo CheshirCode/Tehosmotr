@@ -370,7 +370,7 @@ const objects1 = [
   {
     name: "АР 7836 47",
     fullname: "KRONE SD",
-    date: new Date("2024-07-18"),
+    date: new Date("2025-07-23"),
     comment: "",
   },
   {
@@ -387,7 +387,7 @@ const objects1 = [
   {
     name: "АT 3008 47",
     fullname: "KRONE SDR27",
-    date: new Date("2024-04-05"),
+    date: new Date("2025-08-03"),
     comment: "",
   },
   {
@@ -440,7 +440,7 @@ const objects1 = [
   {
     name: "АУ 8577 78",
     fullname: "KORTEN COE33",
-    date: new Date("2024-04-10"),
+    date: new Date("2025-06-13"),
     comment: "",
   },
   {
@@ -470,8 +470,8 @@ const objects1 = [
   {
     name: "АХ 8394 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
-    date: new Date("2024-09-04"),
-    comment: "4 года со дня регистрации (170-ФЗ р.15)",
+    date: new Date("2026-08-15"),
+    comment: "",
   },
   {
     name: "АХ 8820 47",
@@ -554,7 +554,7 @@ const objects1 = [
   {
     name: "ВН 1765 78",
     fullname: "KRONE SDR27",
-    date: new Date("2024-04-05"),
+    date: new Date("2025-08-03"),
     comment: "",
   },
   {
