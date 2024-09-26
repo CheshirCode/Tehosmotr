@@ -153,7 +153,7 @@ const objects = [
   {
     name: "В 080 УМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2024-10-18"),
+    date: new Date("2025-09-16"),
     comment: "",
   },
   {
@@ -165,7 +165,7 @@ const objects = [
   {
     name: "В 232 ЕУ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2024-10-17"),
+    date: new Date("2025-09-26"),
     comment: "",
   },
 
@@ -416,7 +416,7 @@ const objects1 = [
   {
     name: "АУ 2424 47",
     fullname: "SCHMITZ SK024",
-    date: new Date("2024-04-05"),
+    date: new Date("2025-09-16"),
     comment: "",
   },
   {
@@ -714,7 +714,7 @@ const objects2 = [
   {
     name: "В 403 МС 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-09-15"),
+    date: new Date("2025-06-14"),
     comment: "",
   },
   {
