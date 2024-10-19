@@ -3,7 +3,7 @@ const objects = [
   {
     name: "А 644 КС 198",
     fullname: "INTERNATIONAL PROSTAR FL 627 PREMIUM",
-    date: new Date("2023-10-19"),
+    date: new Date("2024-10-19"),
     comment: "",
   },
   {
@@ -15,7 +15,7 @@ const objects = [
   {
     name: "К 984 ЕО 147",
     fullname: "DAF XF 530 FT",
-    date: new Date("2023-12-22"),
+    date: new Date("2024-12-19"),
     comment: "",
   },
   {
@@ -172,7 +172,7 @@ const objects = [
   {
     name: "В 368 СУ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2024-10-17"),
+    date: new Date("2025-10-15"),
     comment: "",
   },
   {
@@ -757,7 +757,7 @@ const objects2 = [
   {
     name: "В 368 СУ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2022-11-16"),
+    date: new Date("2024-12-21"),
     comment: "",
   },
   {
@@ -878,7 +878,7 @@ const objects2 = [
   {
     name: "О 994 НЕ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2024-10-17"),
+    date: new Date("2024-08-16"),
     comment: "",
   },
   {
