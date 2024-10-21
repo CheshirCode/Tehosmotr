@@ -3,7 +3,7 @@ const objects = [
   {
     name: "А 644 КС 198",
     fullname: "INTERNATIONAL PROSTAR FL 627 PREMIUM",
-    date: new Date("2024-10-19"),
+    date: new Date("2025-10-17"),
     comment: "",
   },
   {
@@ -33,7 +33,7 @@ const objects = [
   {
     name: "В 915 РН 147",
     fullname: "RENAULT T 4x2",
-    date: new Date("2024-08-30"),
+    date: new Date("2025-10-16"),
     comment: "",
   },
   {
@@ -61,27 +61,34 @@ const objects = [
     comment: "",
   },
   {
+    name: "Е 427 НК 147",
+    fullname: "Volvo FH-Truck 6x2",
+    date: new Date("2025-10-03"),
+    comment: "",
+  },
+  {
     name: "К 494 АТ 147",
     fullname: "Volvo FH-Truck 6x2",
     date: new Date("2025-03-27"),
     comment: "",
   },
+
   {
-    name: "Е 456 МК 147",
+    name: "Е 465 МК 147",
     fullname: "SANY HQC240DE",
-    date: new Date("2024-01-01"),
-    comment: "уточнить данные",
+    date: new Date("2025-06-24"),
+    comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "К 586 СУ 147",
     fullname: "SANY HQC240DE",
-    date: new Date("2024-01-01"),
-    comment: "уточнить данные",
+    date: new Date("2025-06-24"),
+    comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "В 077 МК 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-10-17"),
+    date: new Date("2025-10-02"),
     comment: "",
   },
   {
@@ -99,13 +106,13 @@ const objects = [
   {
     name: "В 280 ОЕ 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-10-17"),
+    date: new Date("2025-10-19"),
     comment: "",
   },
   {
     name: "В 294 ВО 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-10-21"),
+    date: new Date("2025-10-17"),
     comment: "",
   },
   {
@@ -123,7 +130,7 @@ const objects = [
   {
     name: "В 401 ОА 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-10-17"),
+    date: new Date("2025-10-17"),
     comment: "",
   },
   {
@@ -233,19 +240,19 @@ const objects = [
   {
     name: "К 166 ОС 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2024-12-27"),
+    date: new Date("2025-07-22"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "К 363 АО 147",
     fullname: "MERCEDES-BENZ ACTROS 2541LS",
-    date: new Date("2024-10-21"),
+    date: new Date("2024-10-20"),
     comment: "",
   },
   {
     name: "К 355 ОТ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2025-04-01"),
+    date: new Date("2025-04-23"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
@@ -269,13 +276,13 @@ const objects = [
   {
     name: "К 785 ОС 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2025-04-01"),
+    date: new Date("2025-04-23"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "К 818 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2025-04-01"),
+    date: new Date("2025-04-24"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
@@ -311,7 +318,7 @@ const objects = [
   {
     name: "У 484 КС 178",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2024-09-24"),
+    date: new Date("2025-10-19"),
     comment: "",
   },
 
@@ -320,28 +327,28 @@ const objects = [
 
 const objects1 = [
   {
-    name: "без номера 1",
+    name: "ВК 2208 47",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2024-07-01"),
-    comment: "уточнить данные",
+    date: new Date("2028-07-19"),
+    comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
-    name: "без номера 2",
+    name: "ВК 2479 47",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2024-07-01"),
-    comment: "уточнить данные",
+    date: new Date("2028-07-18"),
+    comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "без номера 3",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2024-07-01"),
-    comment: "уточнить данные",
+    date: new Date("2028-07-18"),
+    comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "без номера 4",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2024-07-01"),
-    comment: "уточнить данные",
+    date: new Date("2028-07-18"),
+    comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "АН 3553 47",
@@ -410,7 +417,7 @@ const objects1 = [
   {
     name: "АТ 9106 47",
     fullname: "SCHMITZ SK024/L",
-    date: new Date("2024-10-05"),
+    date: new Date("2025-10-25"),
     comment: "",
   },
   {
@@ -422,7 +429,7 @@ const objects1 = [
   {
     name: "АУ 2432 47",
     fullname: "KOGEL S24",
-    date: new Date("2024-10-21"),
+    date: new Date("2025-10-17"),
     comment: "",
   },
   {
@@ -458,8 +465,8 @@ const objects1 = [
   {
     name: "АХ 8037 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
-    date: new Date("2024-07-20"),
-    comment: "4 года со дня регистрации (170-ФЗ р.15)",
+    date: new Date("2026-10-17"),
+    comment: "",
   },
   {
     name: "АХ 8038 47",
@@ -646,27 +653,33 @@ const objects2 = [
     comment: "",
   },
   {
+    name: "Е 427 НК 147",
+    fullname: "Volvo FH-Truck 6x2",
+    date: new Date("2025-10-03"),
+    comment: "уточнить",
+  },
+  {
     name: "К 494 АТ 147",
     fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-03-27"),
+    date: new Date("2025-04-13"),
     comment: "",
   },
   {
-    name: "Е 456 МК 147",
+    name: "Е 465 МК 147",
     fullname: "SANY HQC240DE",
-    date: new Date("2024-01-01"),
-    comment: "уточнить данные",
+    date: new Date("2026-09-18"),
+    comment: "",
   },
   {
     name: "К 586 СУ 147",
     fullname: "SANY HQC240DE",
-    date: new Date("2024-01-01"),
+    date: new Date("2026-08-23"),
     comment: "уточнить данные",
   },
   {
     name: "В 077 МК 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2026-03-03"),
+    date: new Date("2025-03-03"),
     comment: "",
   },
   {
@@ -690,7 +703,7 @@ const objects2 = [
   {
     name: "В 294 ВО 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-08-19"),
+    date: new Date("2026-08-08"),
     comment: "",
   },
   {
@@ -702,7 +715,7 @@ const objects2 = [
   {
     name: "В 358 ОС 147",
     fullname: "SCANIA S500A 4X2 NA",
-    date: new Date("2025-05-10"),
+    date: new Date("2024-09-23"),
     comment: "",
   },
   {
@@ -714,7 +727,7 @@ const objects2 = [
   {
     name: "В 403 МС 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-06-14"),
+    date: new Date("2024-09-15"),
     comment: "",
   },
   {
@@ -763,7 +776,7 @@ const objects2 = [
   {
     name: "В 395 ХТ 147",
     fullname: "MERCEDES-BENZ ACTROS 2545LS",
-    date: new Date("2026-03-05"),
+    date: new Date("2025-03-05"),
     comment: "",
   },
   {
@@ -802,6 +815,12 @@ const objects2 = [
     date: new Date("2026-01-24"),
     comment: "",
   },
+  {
+    name: "Е 391 МК 147",
+    fullname: "MERCEDES-BENZ ACTROS 1848 LS",
+    date: new Date("2025-04-01"),
+    comment: "",
+  },
 
   {
     name: "К 113 ОХ 147",
@@ -830,7 +849,7 @@ const objects2 = [
   {
     name: "К 632 ОВ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2026-01-24"),
+    date: new Date("2026-07-24"),
     comment: "",
   },
   {
