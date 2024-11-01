@@ -21,7 +21,7 @@ const objects = [
   {
     name: "В 618 РВ 147",
     fullname: "RENAULT T 4x2",
-    date: new Date("2024-09-18"),
+    date: new Date("2025-11-01"),
     comment: "",
   },
   {
@@ -201,7 +201,7 @@ const objects = [
     comment: "",
   },
   {
-    name: "В 669 ХС 147",
+    name: "В  ХС 147",
     fullname: "MERCEDES-BENZ ACTROS 1845LS",
     date: new Date("2025-07-09"),
     comment: "",
@@ -715,19 +715,19 @@ const objects2 = [
   {
     name: "В 358 ОС 147",
     fullname: "SCANIA S500A 4X2 NA",
-    date: new Date("2024-09-23"),
+    date: new Date("2026-09-27"),
     comment: "",
   },
   {
     name: "В 401 ОА 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-10-05"),
+    date: new Date("2026-10-04"),
     comment: "",
   },
   {
     name: "В 403 МС 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-09-15"),
+    date: new Date("2026-09-16"),
     comment: "",
   },
   {
@@ -794,7 +794,7 @@ const objects2 = [
   {
     name: "В 669 ХС 147",
     fullname: "MERCEDES-BENZ ACTROS 1845LS",
-    date: new Date("2024-07-04"),
+    date: new Date("2026-07-01"),
     comment: "",
   },
   {
