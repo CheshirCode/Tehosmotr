@@ -341,25 +341,43 @@ const objects1 = [
   {
     name: "ВК 2208 47",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2028-07-19"),
+    date: new Date("2028-01-10"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "ВК 2479 47",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2028-07-18"),
+    date: new Date("2028-01-10"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "без номера 3",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2028-07-18"),
+    date: new Date("2028-04-25"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "без номера 4",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2028-07-18"),
+    date: new Date("2028-06-06"),
+    comment: "4 года со дня регистрации (170-ФЗ р.15)",
+  },
+  {
+    name: "без номера 5",
+    fullname: "CTTM Cargoline 972240-02",
+    date: new Date("2028-01-10"),
+    comment: "4 года со дня регистрации (170-ФЗ р.15)",
+  },
+  {
+    name: "без номера 6",
+    fullname: "CTTM Cargoline 972240-02",
+    date: new Date("2028-01-10"),
+    comment: "4 года со дня регистрации (170-ФЗ р.15)",
+  },
+  {
+    name: "без номера 7",
+    fullname: "CTTM Cargoline 972240-02",
+    date: new Date("2028-01-10"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
@@ -398,6 +416,11 @@ const objects1 = [
     date: new Date("2024-05-02"),
   },
   {
+    name: "ВР 1656 78",
+    fullname: "KOGEL SNC024",
+    date: new Date("2024-05-02"),
+  },
+  {
     name: "АР 8835 47",
     fullname: "SCHMITZ SK024",
     date: new Date("2025-04-04"),
@@ -429,7 +452,7 @@ const objects1 = [
   {
     name: "АТ 9106 47",
     fullname: "SCHMITZ SK024/L",
-    date: new Date("2025-10-25"),
+    date: new Date("2025-10-06"),
     comment: "",
   },
   {
@@ -453,7 +476,7 @@ const objects1 = [
   {
     name: "АУ 8193 78",
     fullname: "SCHMITZ SK024",
-    date: new Date("2024-10-26"),
+    date: new Date("2025-11-05"),
     comment: "",
   },
   {
@@ -489,7 +512,7 @@ const objects1 = [
   {
     name: "АХ 8394 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
-    date: new Date("2026-08-15"),
+    date: new Date("2026-10-30"),
     comment: "",
   },
   {
@@ -513,13 +536,13 @@ const objects1 = [
   {
     name: "АХ 9828 47",
     fullname: "SCHMITZ SK024/L-COOL V7",
-    date: new Date("2025-05-25"),
+    date: new Date("2025-05-24"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "ВА 3762 47",
     fullname: "SCHMITZ SK024/L-COOL V7",
-    date: new Date("2025-09-23"),
+    date: new Date("2025-09-22"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
@@ -543,25 +566,25 @@ const objects1 = [
   {
     name: "ВА 8188 47",
     fullname: "SCHMITZ SK024/L-16.8FP60 COOL V6",
-    date: new Date("2026-04-04"),
+    date: new Date("2026-04-03"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "ВА 8189 47",
     fullname: "SCHMITZ SK024/L-16.8FP60 COOL V6",
-    date: new Date("2026-07-13"),
+    date: new Date("2026-04-03"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "ВА 8195 47",
     fullname: "SCHMITZ SK024/L-16.8FP60 COOL",
-    date: new Date("2025-08-30"),
+    date: new Date("2025-08-29"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "ВА 8399 47",
     fullname: "SCHMITZ SK024/L-16.8FP60 COOL",
-    date: new Date("2024-08-22"),
+    date: new Date("2025-12-19"),
     comment: "Нет данных",
   },
   {
