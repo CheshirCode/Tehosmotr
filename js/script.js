@@ -682,12 +682,6 @@ const objects2 = [
     date: new Date("2025-04-13"),
     comment: "",
   },
-   {
-    name: "К 802 ТА 147",
-    fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-11-15"),
-    comment: "уточнить номер",
-  },
   {
     name: "Е 465 МК 147",
     fullname: "SANY HQC240DE",
@@ -894,7 +888,7 @@ const objects2 = [
     date: new Date("2026-05-06"),
     comment: "",
   },
-   {
+  {
     name: "К 802 ТА 147",
     fullname: "MERCEDES-BENZ ACTROS",
     date: new Date("2025-11-15"),
