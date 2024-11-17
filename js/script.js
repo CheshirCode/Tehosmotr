@@ -78,12 +78,7 @@ const objects = [
     date: new Date("2025-03-27"),
     comment: "",
   },
- {
-    name: "К 802 ТА 147",
-    fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-11-15"),
-    comment: "уточнить номер",
-  },
+ 
   {
     name: "Е 465 МК 147",
     fullname: "SANY HQC240DE",
@@ -289,6 +284,12 @@ const objects = [
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
     date: new Date("2025-04-23"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
+  },
+  {
+    name: "К 802 ТА 147",
+    fullname: "MERCEDES-BENZ ACTROS",
+    date: new Date("2025-11-15"),
+    comment: "уточнить номер",
   },
   {
     name: "К 818 ОХ 147",
@@ -892,6 +893,12 @@ const objects2 = [
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
     date: new Date("2026-05-06"),
     comment: "",
+  },
+   {
+    name: "К 802 ТА 147",
+    fullname: "MERCEDES-BENZ ACTROS",
+    date: new Date("2025-11-15"),
+    comment: "уточнить номер",
   },
   {
     name: "К 818 ОХ 147",
