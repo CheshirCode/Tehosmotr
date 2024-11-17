@@ -39,7 +39,7 @@ const objects = [
   {
     name: "В 100 ТК 98",
     fullname: "VOLVO FH-Truck 6x2",
-    date: new Date("2023-10-27"),
+    date: new Date("2025-10-28"),
     comment: "",
   },
   {
@@ -48,7 +48,7 @@ const objects = [
     date: new Date("2025-07-24"),
     comment: "",
   },
-  {
+    {
     name: "В 653 ХС 147",
     fullname: "Volvo FH-Truck 6x2",
     date: new Date("2025-03-11"),
@@ -63,6 +63,12 @@ const objects = [
   {
     name: "Е 427 НК 147",
     fullname: "Volvo FH-Truck 6x2",
+    date: new Date("2025-04-05"),
+    comment: "",
+  },
+  {
+    name: "Е 581 ТС 198",
+    fullname: "Volvo FH-Truck 6x2",
     date: new Date("2025-10-03"),
     comment: "",
   },
@@ -72,7 +78,12 @@ const objects = [
     date: new Date("2025-03-27"),
     comment: "",
   },
-
+ {
+    name: "К 802 ТА 147",
+    fullname: "Volvo FH-Truck 6x2",
+    date: new Date("2025-11-15"),
+    comment: "уточнить номер",
+  },
   {
     name: "Е 465 МК 147",
     fullname: "SANY HQC240DE",
@@ -312,7 +323,7 @@ const objects = [
   {
     name: "У 464 НА 178",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2024-11-13"),
+    date: new Date("2025-11-05"),
     comment: "",
   },
   {
@@ -655,14 +666,26 @@ const objects2 = [
   {
     name: "Е 427 НК 147",
     fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-10-03"),
+    date: new Date("2026-11-08"),
     comment: "уточнить",
+  },
+  {
+    name: "Е 581 ТС 198",
+    fullname: "Volvo FH-Truck 6x2",
+    date: new Date("2025-04-05"),
+    comment: "нет данных",
   },
   {
     name: "К 494 АТ 147",
     fullname: "Volvo FH-Truck 6x2",
     date: new Date("2025-04-13"),
     comment: "",
+  },
+   {
+    name: "К 802 ТА 147",
+    fullname: "Volvo FH-Truck 6x2",
+    date: new Date("2025-11-15"),
+    comment: "уточнить номер",
   },
   {
     name: "Е 465 МК 147",
@@ -709,7 +732,7 @@ const objects2 = [
   {
     name: "В 294 ЕУ 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-08-17"),
+    date: new Date("2026-11-13"),
     comment: "Ремонт",
   },
   {
@@ -903,7 +926,7 @@ const objects2 = [
   {
     name: "У 464 НА 178",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2024-10-31"),
+    date: new Date("2026-11-06"),
     comment: "",
   },
   {
