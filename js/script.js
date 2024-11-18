@@ -351,7 +351,7 @@ const objects1 = [
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
-    name: "ВК 2916 47",
+    name: "без номера 3",
     fullname: "CTTM Cargoline 972240-02",
     date: new Date("2028-04-25"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
@@ -363,7 +363,7 @@ const objects1 = [
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
-    name: "без номера 5",
+    name: "ВК 2916 47",
     fullname: "CTTM Cargoline 972240-02",
     date: new Date("2028-01-10"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
