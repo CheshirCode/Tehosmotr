@@ -286,7 +286,7 @@ const objects = [
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
-    name: "К 802 ТА 147",
+    name: "К 802 ТУ 147",
     fullname: "MERCEDES-BENZ ACTROS",
     date: new Date("2025-11-15"),
     comment: "уточнить номер",
@@ -351,7 +351,7 @@ const objects1 = [
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
-    name: "без номера 3",
+    name: "ВК 2916 47",
     fullname: "CTTM Cargoline 972240-02",
     date: new Date("2028-04-25"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
@@ -912,7 +912,7 @@ const objects2 = [
     comment: "",
   },
   {
-    name: "К 802 ТА 147",
+    name: "К 802 ТУ 147",
     fullname: "MERCEDES-BENZ ACTROS",
     date: new Date("2025-11-15"),
     comment: "уточнить номер",
