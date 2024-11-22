@@ -418,7 +418,7 @@ const objects1 = [
   {
     name: "ВР 1656 78",
     fullname: "KOGEL SNC024",
-    date: new Date("2024-05-02"),
+    date: new Date("2025-03-07"),
   },
   {
     name: "АР 8835 47",
@@ -608,7 +608,7 @@ const objects1 = [
   {
     name: "ВО 1025 78",
     fullname: "GRAY & ADAMS GA2F/9",
-    date: new Date("2024-11-03"),
+    date: new Date("2026-12-03"),
     comment: "",
   },
   {
@@ -823,7 +823,7 @@ const objects2 = [
   {
     name: "В 496 ХХ 147",
     fullname: "MERCEDES-BENZ ACTROS 2544LS",
-    date: new Date("2024-08-25"),
+    date: new Date("2026-10-25"),
     comment: "",
   },
   {
@@ -878,7 +878,7 @@ const objects2 = [
   {
     name: "К 363 АО 147",
     fullname: "MERCEDES-BENZ ACTROS 2541LS",
-    date: new Date("2024-10-31"),
+    date: new Date("2026-11-01"),
     comment: "",
   },
   {
