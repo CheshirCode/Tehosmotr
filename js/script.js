@@ -73,6 +73,12 @@ const objects = [
     comment: "",
   },
   {
+    name: "Е 932 НК 147",
+    fullname: "Volvo FH-Truck 6x2",
+    date: new Date("2025-10-01"),
+    comment: "нет данных",
+  },
+  {
     name: "К 494 АТ 147",
     fullname: "Volvo FH-Truck 6x2",
     date: new Date("2025-03-27"),
@@ -124,7 +130,7 @@ const objects = [
   {
     name: "В 294 ЕУ 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2024-10-21"),
+    date: new Date("2025-11-13"),
     comment: "Ремонт",
   },
   {
@@ -620,7 +626,7 @@ const objects1 = [
   {
     name: "ВР 4355 78",
     fullname: "KAESBOHRER",
-    date: new Date("2024-08-14"),
+    date: new Date("2025-07-16"),
     comment: "",
   },
   // ...
@@ -630,7 +636,7 @@ const objects2 = [
   {
     name: "А 644 КС 198",
     fullname: "INTERNATIONAL PROSTAR FL 627 PREMIUM",
-    date: new Date("2024-10-03"),
+    date: new Date("2026-11-26"),
     comment: "",
   },
   {
@@ -684,7 +690,7 @@ const objects2 = [
   {
     name: "В 851 СК 47",
     fullname: "Volvo FH-Truck 4x2",
-    date: new Date("2024-12-06"),
+    date: new Date("2026-12-02"),
     comment: "",
   },
   {
@@ -697,6 +703,12 @@ const objects2 = [
     name: "Е 581 ТС 198",
     fullname: "Volvo FH-Truck 6x2",
     date: new Date("2025-04-05"),
+    comment: "нет данных",
+  },
+  {
+    name: "Е 932 НК 147",
+    fullname: "Volvo FH-Truck 6x2",
+    date: new Date("2025-10-01"),
     comment: "нет данных",
   },
   {
