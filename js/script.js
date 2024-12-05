@@ -166,7 +166,7 @@ const objects = [
   {
     name: "Р 773 КТ 98",
     fullname: "SCANIA R124 LA 4X2 NA420",
-    date: new Date("2024-04-03"),
+    date: new Date("2025-12-03"),
     comment: "Ремонт",
   },
   {
