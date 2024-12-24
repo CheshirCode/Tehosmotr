@@ -15,7 +15,7 @@ const objects = [
   {
     name: "К 984 ЕО 147",
     fullname: "DAF XF 530 FT",
-    date: new Date("2024-12-19"),
+    date: new Date("2025-11-08"),
     comment: "",
   },
   {
@@ -648,7 +648,7 @@ const objects2 = [
   {
     name: "К 984 ЕО 147",
     fullname: "DAF XF 530 FT",
-    date: new Date("2024-12-20"),
+    date: new Date("2026-11-08"),
     comment: "",
   },
   {
@@ -823,7 +823,7 @@ const objects2 = [
   {
     name: "В 368 СУ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2024-12-21"),
+    date: new Date("2026-12-02"),
     comment: "",
   },
   {
