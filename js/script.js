@@ -246,7 +246,7 @@ const objects = [
   {
     name: "К 113 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2024-12-27"),
+    date: new Date("2026-01-10"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
