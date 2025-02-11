@@ -207,7 +207,7 @@ const objects = [
     comment: "",
   },
   {
-    name: "В 668 НЕ 147",
+    name: "В  НЕ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
     date: new Date("2025-05-27"),
     comment: "",
@@ -233,8 +233,8 @@ const objects = [
   {
     name: "Е 135 КЕ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2024-12-27"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+    date: new Date("2026-01-17"),
+    comment: "",
   },
   {
     name: "Е 391 МК 147",
@@ -270,19 +270,19 @@ const objects = [
   {
     name: "К 632 ОВ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2024-12-27"),
+    date: new Date("2026-01-22"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "К 638 ОУ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2024-12-27"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+    date: new Date("2026-01-17"),
+    comment: "",
   },
   {
     name: "К 674 ОУ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2024-12-27"),
+    date: new Date("2026-01-09"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
@@ -841,7 +841,7 @@ const objects2 = [
   {
     name: "В 668 НЕ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2025-01-16"),
+    date: new Date("2027-01-15"),
     comment: "",
   },
   {
