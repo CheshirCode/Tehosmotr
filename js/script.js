@@ -40,34 +40,22 @@ const objects = [
     name: "В 100 ТК 98",
     fullname: "VOLVO FH-Truck 6x2",
     date: new Date("2025-10-28"),
-    comment: "",
+    comment: "Гулиев С.С.",
   },
   {
-    name: "В 531 ХС 147",
-    fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-07-24"),
-    comment: "",
-  },
-    {
     name: "В 653 ХС 147",
     fullname: "Volvo FH-Truck 6x2",
     date: new Date("2025-03-11"),
-    comment: "Нет данных",
+    comment: "",
   },
   {
     name: "В 851 СК 47",
     fullname: "Volvo FH-Truck 4x2",
-    date: new Date("2025-03-27"),
+    date: new Date("2026-03-25"),
     comment: "",
   },
   {
     name: "Е 427 НК 147",
-    fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-04-05"),
-    comment: "",
-  },
-  {
-    name: "Е 581 ТС 198",
     fullname: "Volvo FH-Truck 6x2",
     date: new Date("2025-10-03"),
     comment: "",
@@ -75,21 +63,14 @@ const objects = [
   {
     name: "Е 932 НК 147",
     fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-10-01"),
+    date: new Date("2026-03-10"),
     comment: "нет данных",
   },
   {
-    name: "К 494 АТ 147",
-    fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-03-27"),
-    comment: "",
-  },
- 
-  {
     name: "Е 465 МК 147",
     fullname: "SANY HQC240DE",
-    date: new Date("2025-06-24"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+    date: new Date("2025-06-03"),
+    comment: "",
   },
   {
     name: "К 586 СУ 147",
@@ -170,12 +151,6 @@ const objects = [
     comment: "Ремонт",
   },
   {
-    name: "В 080 УМ 47",
-    fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2025-09-16"),
-    comment: "",
-  },
-  {
     name: "В 213 ТМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
     date: new Date("2025-04-04"),
@@ -197,7 +172,7 @@ const objects = [
   {
     name: "В 395 ХТ 147",
     fullname: "MERCEDES-BENZ ACTROS 2545LS",
-    date: new Date("2025-02-27"),
+    date: new Date("2026-03-18"),
     comment: "",
   },
   {
@@ -207,13 +182,13 @@ const objects = [
     comment: "",
   },
   {
-    name: "В  НЕ 147",
+    name: "В 668 НЕ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
     date: new Date("2025-05-27"),
     comment: "",
   },
   {
-    name: "В  ХС 147",
+    name: "В 669 ХС 147",
     fullname: "MERCEDES-BENZ ACTROS 1845LS",
     date: new Date("2025-07-09"),
     comment: "",
@@ -227,7 +202,7 @@ const objects = [
   {
     name: "В 998 ХР 147",
     fullname: "MERCEDES-BENZ ACTROS 1845LS",
-    date: new Date("2025-02-26"),
+    date: new Date("2026-02-19"),
     comment: "",
   },
   {
@@ -240,7 +215,7 @@ const objects = [
     name: "Е 391 МК 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
     date: new Date("2025-04-01"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+    comment: "дата не соответствует 170-ФЗ р.15",
   },
 
   {
@@ -248,12 +223,6 @@ const objects = [
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
     date: new Date("2026-01-10"),
     comment: "",
-  },
-  {
-    name: "К 166 ОС 147",
-    fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2025-07-22"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "К 363 АО 147",
@@ -265,13 +234,13 @@ const objects = [
     name: "К 355 ОТ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
     date: new Date("2025-04-23"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+    comment: "дата не соответствует 170-ФЗ р.15",
   },
   {
     name: "К 632 ОВ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
     date: new Date("2026-01-22"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+    comment: "",
   },
   {
     name: "К 638 ОУ 147",
@@ -283,25 +252,25 @@ const objects = [
     name: "К 674 ОУ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
     date: new Date("2026-01-09"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+    comment: "",
   },
   {
     name: "К 785 ОС 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
     date: new Date("2025-04-23"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+    comment: "дата не соответствует 170-ФЗ р.15",
   },
   {
     name: "К 802 ТУ 147",
     fullname: "MERCEDES-BENZ ACTROS",
     date: new Date("2025-11-15"),
-    comment: "уточнить номер",
+    comment: "дата не соответствует 170-ФЗ р.15",
   },
   {
     name: "К 818 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
     date: new Date("2025-04-24"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+    comment: "дата не соответствует 170-ФЗ р.15",
   },
   {
     name: "К 837 ВК 147",
@@ -312,19 +281,13 @@ const objects = [
   {
     name: "К 840 ВК 147",
     fullname: "MERCEDES-BENZ ACTROS 2553 LS",
-    date: new Date("2025-02-26"),
+    date: new Date("2026-03-10"),
     comment: "",
   },
   {
     name: "О 735 РМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
     date: new Date("2025-05-03"),
-    comment: "",
-  },
-  {
-    name: "О 994 НЕ 47",
-    fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2024-10-17"),
     comment: "",
   },
   {
@@ -357,31 +320,19 @@ const objects1 = [
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
-    name: "без номера 3",
+    name: "ВК 3274 47",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2028-04-25"),
+    date: new Date("2028-01-10"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
-    name: "без номера 4",
+    name: "ВК 3275 47",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2028-06-06"),
+    date: new Date("2028-01-10"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "ВК 2916 47",
-    fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2028-01-10"),
-    comment: "4 года со дня регистрации (170-ФЗ р.15)",
-  },
-  {
-    name: "без номера 6",
-    fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2028-01-10"),
-    comment: "4 года со дня регистрации (170-ФЗ р.15)",
-  },
-  {
-    name: "без номера 7",
     fullname: "CTTM Cargoline 972240-02",
     date: new Date("2028-01-10"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
@@ -407,7 +358,7 @@ const objects1 = [
   {
     name: "АР 7835 47",
     fullname: "KRONE SD C27",
-    date: new Date("2025-03-03"),
+    date: new Date("2026-03-03"),
     comment: "",
   },
   {
@@ -415,11 +366,6 @@ const objects1 = [
     fullname: "KRONE SD",
     date: new Date("2025-07-23"),
     comment: "",
-  },
-  {
-    name: "АР 7837 47",
-    fullname: "KRONE SD",
-    date: new Date("2024-05-02"),
   },
   {
     name: "ВР 1656 78",
@@ -449,11 +395,6 @@ const objects1 = [
     fullname: "KRONE SDR27",
     date: new Date("2025-05-10"),
     comment: "",
-  },
-  {
-    name: "АT 7906 47",
-    fullname: "ССТ-7132-13",
-    date: new Date("2024-05-02"),
   },
   {
     name: "АТ 9106 47",
@@ -584,14 +525,38 @@ const objects1 = [
   {
     name: "ВА 8195 47",
     fullname: "SCHMITZ SK024/L-16.8FP60 COOL",
-    date: new Date("2025-08-29"),
-    comment: "4 года со дня регистрации (170-ФЗ р.15)",
+    date: new Date("2027-12-09"),
+    comment: "",
   },
   {
     name: "ВА 8399 47",
     fullname: "SCHMITZ SK024/L-16.8FP60 COOL",
     date: new Date("2025-12-19"),
-    comment: "Нет данных",
+    comment: "",
+  },
+  {
+    name: "ВВ 5123 47",
+    fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
+    date: new Date("2028-06-06"),
+    comment: "",
+  },
+  {
+    name: "ВВ 5127 47",
+    fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
+    date: new Date("2028-04-25"),
+    comment: "",
+  },
+  {
+    name: "ВК 3300 47",
+    fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
+    date: new Date("2028-03-04"),
+    comment: "",
+  },
+  {
+    name: "ВК 3300 47",
+    fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
+    date: new Date("2028-03-10"),
+    comment: "",
   },
   {
     name: "ВМ 6270 78",
@@ -608,13 +573,13 @@ const objects1 = [
   {
     name: "ВН 8163 78",
     fullname: "GRAY & ADAMS GA3B/5-R",
-    date: new Date("2025-03-27"),
+    date: new Date("2026-03-25"),
     comment: "",
   },
   {
     name: "ВО 1025 78",
     fullname: "GRAY & ADAMS GA2F/9",
-    date: new Date("2026-12-03"),
+    date: new Date("2025-12-04"),
     comment: "",
   },
   {
@@ -673,13 +638,7 @@ const objects2 = [
     name: "В 100 ТК 98",
     fullname: "VOLVO FH-Truck 6x2",
     date: new Date("2025-02-15"),
-    comment: "",
-  },
-  {
-    name: "В 531 ХС 147",
-    fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-07-24"),
-    comment: "",
+    comment: "Гулиев С.С.",
   },
   {
     name: "В 653 ХС 147",
@@ -700,22 +659,10 @@ const objects2 = [
     comment: "уточнить",
   },
   {
-    name: "Е 581 ТС 198",
-    fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-04-05"),
-    comment: "нет данных",
-  },
-  {
     name: "Е 932 НК 147",
     fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-10-01"),
+    date: new Date("2026-11-28"),
     comment: "нет данных",
-  },
-  {
-    name: "К 494 АТ 147",
-    fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-04-13"),
-    comment: "",
   },
   {
     name: "Е 465 МК 147",
@@ -732,7 +679,7 @@ const objects2 = [
   {
     name: "В 077 МК 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-03-03"),
+    date: new Date("2026-03-03"),
     comment: "",
   },
   {
@@ -786,7 +733,7 @@ const objects2 = [
   {
     name: "В 406 МУ 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-09-28"),
+    date: new Date("2025-10-23"),
     comment: "",
   },
   {
@@ -802,12 +749,6 @@ const objects2 = [
     comment: "Ремонт",
   },
   {
-    name: "В 080 УМ 47",
-    fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2026-02-07"),
-    comment: "",
-  },
-  {
     name: "В 213 ТМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
     date: new Date("2026-01-29"),
@@ -819,7 +760,6 @@ const objects2 = [
     date: new Date("2025-09-21"),
     comment: "",
   },
-
   {
     name: "В 368 СУ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
@@ -871,7 +811,7 @@ const objects2 = [
   {
     name: "Е 391 МК 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2025-04-01"),
+    date: new Date("2026-11-14"),
     comment: "",
   },
 
@@ -879,12 +819,6 @@ const objects2 = [
     name: "К 113 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
     date: new Date("2026-01-24"),
-    comment: "",
-  },
-  {
-    name: "К 166 ОС 147",
-    fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2026-01-17"),
     comment: "",
   },
   {
@@ -926,8 +860,8 @@ const objects2 = [
   {
     name: "К 802 ТУ 147",
     fullname: "MERCEDES-BENZ ACTROS",
-    date: new Date("2025-11-15"),
-    comment: "уточнить номер",
+    date: new Date("2026-12-20"),
+    comment: "",
   },
   {
     name: "К 818 ОХ 147",
@@ -951,12 +885,6 @@ const objects2 = [
     name: "О 735 РМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
     date: new Date("2025-11-13"),
-    comment: "",
-  },
-  {
-    name: "О 994 НЕ 47",
-    fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2024-08-16"),
     comment: "",
   },
   {
