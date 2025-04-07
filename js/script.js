@@ -45,7 +45,7 @@ const objects = [
   {
     name: "В 653 ХС 147",
     fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-03-11"),
+    date: new Date("2026-04-06"),
     comment: "",
   },
   {
