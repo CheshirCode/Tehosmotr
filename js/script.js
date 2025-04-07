@@ -352,7 +352,7 @@ const objects1 = [
   {
     name: "АО 5519 47",
     fullname: "SCHMITZ SC024L",
-    date: new Date("2025-04-03"),
+    date: new Date("2026-04-02"),
     comment: "",
   },
   {
