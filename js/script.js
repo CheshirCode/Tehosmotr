@@ -153,7 +153,7 @@ const objects = [
   {
     name: "В 213 ТМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2025-04-04"),
+    date: new Date("2026-04-08"),
     comment: "",
   },
   {
