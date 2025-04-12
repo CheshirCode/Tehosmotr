@@ -214,8 +214,8 @@ const objects = [
   {
     name: "Е 391 МК 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2025-04-01"),
-    comment: "дата не соответствует 170-ФЗ р.15",
+    date: new Date("2026-04-09"),
+    comment: "",
   },
 
   {
