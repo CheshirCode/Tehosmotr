@@ -87,7 +87,7 @@ const objects = [
   {
     name: "В 081 СО 147",
     fullname: "SCANIA R4Х200 R450 A4x2NA",
-    date: new Date("2025-04-18"),
+    date: new Date("2026-04-17"),
     comment: "",
   },
   {
@@ -144,6 +144,18 @@ const objects = [
     date: new Date("2025-05-21"),
     comment: "",
   },
+   {
+    name: "К 500 ХН 147",
+    fullname: "SCANIA R500A 6X2 NA",
+    date: new Date("2026-04-21"),
+    comment: "",
+  },
+   {
+    name: "К 502 ХН 147",
+    fullname: "SCANIA R500A 6X2 NA",
+    date: new Date("2026-04-21"),
+    comment: "",
+  },
   {
     name: "Р 773 КТ 98",
     fullname: "SCANIA R124 LA 4X2 NA420",
@@ -196,7 +208,7 @@ const objects = [
   {
     name: "В 986 ЕХ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2025-04-12"),
+    date: new Date("2026-04-10"),
     comment: "",
   },
   {
@@ -375,7 +387,7 @@ const objects1 = [
   {
     name: "АР 8835 47",
     fullname: "SCHMITZ SK024",
-    date: new Date("2025-04-04"),
+    date: new Date("2026-04-08"),
     comment: "",
   },
   {
@@ -556,6 +568,12 @@ const objects1 = [
     name: "ВК 3300 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
     date: new Date("2028-03-10"),
+    comment: "",
+  },
+    {
+    name: "ВК 3444 47",
+    fullname: "SCHMITZ Cargobull",
+    date: new Date("2029-03-06"),
     comment: "",
   },
   {
@@ -741,6 +759,18 @@ const objects2 = [
     fullname: "SCANIA R4Х200 R450 A4x2NA",
     date: new Date("2025-06-28"),
     comment: "",
+  },
+   {
+    name: "К 500 ХН 147",
+    fullname: "SCANIA R500A 6X2 NA",
+    date: new Date("2026-04-21"),
+    comment: "уточнить данные",
+  },
+   {
+    name: "К 502 ХН 147",
+    fullname: "SCANIA R500A 6X2 NA",
+    date: new Date("2026-04-21"),
+    comment: "уточнить данные",
   },
   {
     name: "Р 773 КТ 98",
