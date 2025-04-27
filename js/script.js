@@ -116,7 +116,7 @@ const objects = [
   },
   {
     name: "В 358 ОС 147",
-    fullname: "SCANIA S500A 4X2 NA",
+    fullname: "SCANIA SA 4X2 NA",
     date: new Date("2025-05-10"),
     comment: "",
   },
