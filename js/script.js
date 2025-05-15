@@ -269,7 +269,7 @@ const objects = [
   {
     name: "К 785 ОС 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2025-04-23"),
+    date: new Date("2026-05-08"),
     comment: "дата не соответствует 170-ФЗ р.15",
   },
   {
