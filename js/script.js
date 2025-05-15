@@ -399,13 +399,13 @@ const objects1 = [
   {
     name: "АT 3123 47",
     fullname: "LAMBERET",
-    date: new Date("2025-04-18"),
+    date: new Date("2026-05-10"),
     comment: "",
   },
   {
     name: "АT 5500 78",
     fullname: "KRONE SDR27",
-    date: new Date("2025-05-10"),
+    date: new Date("2026-04-26"),
     comment: "",
   },
   {
@@ -603,7 +603,7 @@ const objects1 = [
   {
     name: "ВО 6247 78",
     fullname: "SCHMITZ SK024",
-    date: new Date("2025-04-18"),
+    date: new Date("2026-04-17"),
     comment: "",
   },
   {
