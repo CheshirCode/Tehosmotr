@@ -190,7 +190,7 @@ const objects = [
   {
     name: "В 496 ХХ 147",
     fullname: "MERCEDES-BENZ ACTROS 2544LS",
-    date: new Date("2025-03-10"),
+    date: new Date("2026-04-05"),
     comment: "",
   },
   {
@@ -281,7 +281,7 @@ const objects = [
   {
     name: "К 818 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2025-04-24"),
+    date: new Date("2026-04-14"),
     comment: "дата не соответствует 170-ФЗ р.15",
   },
   {
@@ -299,7 +299,7 @@ const objects = [
   {
     name: "О 735 РМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2025-05-03"),
+    date: new Date("2026-05-13"),
     comment: "",
   },
   {
