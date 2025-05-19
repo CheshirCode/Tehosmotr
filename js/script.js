@@ -93,7 +93,7 @@ const objects = [
   {
     name: "В 090 СО 147",
     fullname: "SCANIA R4Х200 R450 A4x2NA",
-    date: new Date("2025-05-17"),
+    date: new Date("2026-05-05"),
     comment: "",
   },
   {
@@ -579,7 +579,7 @@ const objects1 = [
   {
     name: "ВМ 6270 78",
     fullname: "SCHMITZ SK024/L",
-    date: new Date("2025-05-03"),
+    date: new Date("2026-05-11"),
     comment: "",
   },
   {
