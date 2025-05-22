@@ -27,7 +27,7 @@ const objects = [
   {
     name: "В 648 СМ 147",
     fullname: "RENAULT T 4x2",
-    date: new Date("2025-05-31"),
+    date: new Date("2026-05-19"),
     comment: "",
   },
   {
