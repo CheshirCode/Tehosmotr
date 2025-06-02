@@ -1,10 +1,22 @@
 // Шаг 1: Создаем массив объектов
 const objects = [
   {
+    name: "Е 229 ОТ 147",
+    fullname: "ISUZU 5777LC",
+    date: new Date("2025-05-30"),
+    comment: "нет данных",
+  },
+  {
     name: "А 644 КС 198",
     fullname: "INTERNATIONAL PROSTAR FL 627 PREMIUM",
     date: new Date("2025-10-17"),
     comment: "",
+  },
+  {
+    name: "К 742 УН 147",
+    fullname: "VALDAI 45 FB2R13",
+    date: new Date("2025-05-30"),
+    comment: "данных нет",
   },
   {
     name: "К 613 КУ 147",
@@ -161,6 +173,24 @@ const objects = [
     fullname: "SCANIA R124 LA 4X2 NA420",
     date: new Date("2025-12-03"),
     comment: "Ремонт",
+  },
+  {
+    name: "175",
+    fullname: "MERCEDES-BENZ ACTROS 1848",
+    date: new Date("2025-05-30"),
+    comment: "данных нет",
+  },
+  {
+    name: "438",
+    fullname: "MERCEDES-BENZ ACTROS 1848",
+    date: new Date("2025-05-30"),
+    comment: "данных нет",
+  },
+  {
+    name: "590",
+    fullname: "MERCEDES-BENZ ACTROS 1848",
+    date: new Date("2025-05-30"),
+    comment: "данных нет",
   },
   {
     name: "В 213 ТМ 47",
@@ -433,12 +463,6 @@ const objects1 = [
     comment: "",
   },
   {
-    name: "АУ 8193 78",
-    fullname: "SCHMITZ SK024",
-    date: new Date("2025-11-05"),
-    comment: "",
-  },
-  {
     name: "АУ 8577 78",
     fullname: "KORTEN COE33",
     date: new Date("2025-06-13"),
@@ -616,11 +640,23 @@ const objects1 = [
 ];
 
 const objects2 = [
+   {
+    name: "Е 229 ОТ 147",
+    fullname: "ISUZU 5777LC",
+    date: new Date("2025-05-30"),
+    comment: "нет данных",
+  },
   {
     name: "А 644 КС 198",
     fullname: "INTERNATIONAL PROSTAR FL 627 PREMIUM",
     date: new Date("2026-11-26"),
     comment: "",
+  },
+   {
+    name: "К 742 УН 147",
+    fullname: "VALDAI 45 FB2R13",
+    date: new Date("2025-05-30"),
+    comment: "данных нет",
   },
   {
     name: "К 613 КУ 147",
@@ -777,6 +813,24 @@ const objects2 = [
     fullname: "SCANIA R124 LA 4X2 NA420",
     date: new Date("2024-04-06"),
     comment: "Ремонт",
+  },
+   {
+    name: "175",
+    fullname: "MERCEDES-BENZ ACTROS 1848",
+    date: new Date("2025-05-30"),
+    comment: "данных нет",
+  },
+  {
+    name: "438",
+    fullname: "MERCEDES-BENZ ACTROS 1848",
+    date: new Date("2025-05-30"),
+    comment: "данных нет",
+  },
+  {
+    name: "590",
+    fullname: "MERCEDES-BENZ ACTROS 1848",
+    date: new Date("2025-05-30"),
+    comment: "данных нет",
   },
   {
     name: "В 213 ТМ 47",
