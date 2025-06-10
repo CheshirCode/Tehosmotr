@@ -376,13 +376,13 @@ const objects1 = [
   {
     name: "АН 3553 47",
     fullname: "VANHOOL S 332",
-    date: new Date("2025-05-21"),
+    date: new Date("2026-05-21"),
     comment: "",
   },
   {
     name: "АН 8637 78",
     fullname: "SCHMITZ SCO24",
-    date: new Date("2025-04-12"),
+    date: new Date("2026-06-09"),
     comment: "",
   },
   {
