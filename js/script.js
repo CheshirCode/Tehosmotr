@@ -49,12 +49,6 @@ const objects = [
     comment: "",
   },
   {
-    name: "В 100 ТК 98",
-    fullname: "VOLVO FH-Truck 6x2",
-    date: new Date("2025-10-28"),
-    comment: "Гулиев С.С.",
-  },
-  {
     name: "В 653 ХС 147",
     fullname: "Volvo FH-Truck 6x2",
     date: new Date("2026-04-06"),
@@ -687,12 +681,6 @@ const objects2 = [
     fullname: "RENAULT T 4x2",
     date: new Date("2025-08-31"),
     comment: "",
-  },
-  {
-    name: "В 100 ТК 98",
-    fullname: "VOLVO FH-Truck 6x2",
-    date: new Date("2025-02-15"),
-    comment: "Гулиев С.С.",
   },
   {
     name: "В 653 ХС 147",
