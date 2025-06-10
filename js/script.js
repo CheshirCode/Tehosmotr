@@ -15,7 +15,7 @@ const objects = [
   {
     name: "К 742 УН 147",
     fullname: "VALDAI 45 FB2R13",
-    date: new Date("2025-05-30"),
+    date: new Date("2026-05-28"),
     comment: "данных нет",
   },
   {
