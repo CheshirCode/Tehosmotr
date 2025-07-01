@@ -75,13 +75,13 @@ const objects = [
   {
     name: "Е 465 МК 147",
     fullname: "SANY HQC240DE",
-    date: new Date("2025-06-03"),
+    date: new Date("2026-05-22"),
     comment: "",
   },
   {
     name: "К 586 СУ 147",
     fullname: "SANY HQC240DE",
-    date: new Date("2025-06-24"),
+    date: new Date("2026-05-27"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
   {
@@ -123,7 +123,7 @@ const objects = [
   {
     name: "В 358 ОС 147",
     fullname: "SCANIA SA 4X2 NA",
-    date: new Date("2025-05-10"),
+    date: new Date("2026-06-27"),
     comment: "",
   },
   {
@@ -141,7 +141,7 @@ const objects = [
   {
     name: "В 406 МУ 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-05-29"),
+    date: new Date("2026-05-27"),
     comment: "",
   },
   {
@@ -168,12 +168,7 @@ const objects = [
     date: new Date("2025-12-03"),
     comment: "Ремонт",
   },
-  {
-    name: "175",
-    fullname: "MERCEDES-BENZ ACTROS 1848",
-    date: new Date("2025-05-30"),
-    comment: "данных нет",
-  },
+  
   {
     name: "438",
     fullname: "MERCEDES-BENZ ACTROS 1848",
@@ -226,7 +221,7 @@ const objects = [
   {
     name: "В 669 ХС 147",
     fullname: "MERCEDES-BENZ ACTROS 1845LS",
-    date: new Date("2025-07-09"),
+    date: new Date("2026-03-03"),
     comment: "",
   },
   {
@@ -273,6 +268,12 @@ const objects = [
     comment: "",
   },
   {
+    name: "К 484 УА 147",
+    fullname: "MERCEDES-BENZ ACTROS 1848",
+    date: new Date("2026-06-26"),
+    comment: "данных нет",
+  },
+  {
     name: "К 632 ОВ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
     date: new Date("2026-01-22"),
@@ -311,7 +312,7 @@ const objects = [
   {
     name: "К 837 ВК 147",
     fullname: "MERCEDES-BENZ ACTROS 2553 LS",
-    date: new Date("2025-03-07"),
+    date: new Date("2026-05-25"),
     comment: "",
   },
   {
@@ -802,12 +803,7 @@ const objects2 = [
     date: new Date("2024-04-06"),
     comment: "Ремонт",
   },
-   {
-    name: "175",
-    fullname: "MERCEDES-BENZ ACTROS 1848",
-    date: new Date("2025-05-30"),
-    comment: "данных нет",
-  },
+   
   {
     name: "438",
     fullname: "MERCEDES-BENZ ACTROS 1848",
@@ -906,6 +902,12 @@ const objects2 = [
     comment: "",
   },
   {
+    name: "К 484 УА 147",
+    fullname: "MERCEDES-BENZ ACTROS 1848",
+    date: new Date("2025-05-30"),
+    comment: "данных нет",
+  },
+  {
     name: "К 632 ОВ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
     date: new Date("2026-07-24"),
@@ -944,7 +946,7 @@ const objects2 = [
   {
     name: "К 837 ВК 147",
     fullname: "MERCEDES-BENZ ACTROS 2553 LS",
-    date: new Date("2025-02-07"),
+    date: new Date("2027-06-27"),
     comment: "",
   },
   {
