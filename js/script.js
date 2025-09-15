@@ -186,19 +186,6 @@ const objects = [
     date: new Date("2025-12-03"),
     comment: "Ремонт",
   },
-  
-  {
-    name: "438",
-    fullname: "MERCEDES-BENZ ACTROS 1848",
-    date: new Date("2025-05-30"),
-    comment: "данных нет",
-  },
-  {
-    name: "590",
-    fullname: "MERCEDES-BENZ ACTROS 1848",
-    date: new Date("2025-05-30"),
-    comment: "данных нет",
-  },
   {
     name: "В 213 ТМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
@@ -844,19 +831,6 @@ const objects2 = [
     date: new Date("2027-09-04"),
     comment: "Ремонт",
   },
-   
-  {
-    name: "438",
-    fullname: "MERCEDES-BENZ ACTROS 1848",
-    date: new Date("2025-05-30"),
-    comment: "данных нет",
-  },
-  {
-    name: "590",
-    fullname: "MERCEDES-BENZ ACTROS 1848",
-    date: new Date("2025-05-30"),
-    comment: "данных нет",
-  },
   {
     name: "В 213 ТМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
@@ -1126,5 +1100,6 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
