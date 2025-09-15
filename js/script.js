@@ -3,7 +3,7 @@ const objects = [
   {
     name: "Е 229 ОТ 147",
     fullname: "ISUZU 5777LC",
-    date: new Date("2025-05-30"),
+    date: new Date("2026-01-29"),
     comment: "нет данных",
   },
   {
@@ -21,7 +21,7 @@ const objects = [
   {
     name: "К 613 КУ 147",
     fullname: "DAF XF 480 FT",
-    date: new Date("2025-07-20"),
+    date: new Date("2026-08-17"),
     comment: "",
   },
   {
@@ -73,6 +73,12 @@ const objects = [
     comment: "нет данных",
   },
   {
+    name: "К 580 ХТ 147",
+    fullname: "Volvo FH-Truck 6x2",
+    date: new Date("2026-07-21"),
+    comment: "нет данных",
+  },
+  {
     name: "Е 465 МК 147",
     fullname: "SANY HQC240DE",
     date: new Date("2026-05-22"),
@@ -84,6 +90,18 @@ const objects = [
     date: new Date("2026-05-27"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
+ {
+    name: "К 558 ХР 147",
+    fullname: "SANY 495AS",
+    date: new Date("2026-09-10"),
+    comment: "",
+  },
+ {
+    name: "К 962 ХK 147",
+    fullname: "SANY 495AS",
+    date: new Date("2026-09-03"),
+    comment: "",
+  },  
   {
     name: "В 077 МК 147",
     fullname: "SCANIA R410А 4X2 NA",
@@ -135,7 +153,7 @@ const objects = [
   {
     name: "В 403 МС 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-06-14"),
+    date: new Date("2026-07-03"),
     comment: "",
   },
   {
@@ -248,7 +266,12 @@ const objects = [
     date: new Date("2026-04-09"),
     comment: "",
   },
-
+ {
+    name: "К 027 УМ 147",
+    fullname: "MERCEDES-BENZ ACTROS 1848 LS",
+    date: new Date("2026-07-17"),
+    comment: "",
+  },
   {
     name: "К 113 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
@@ -656,7 +679,7 @@ const objects2 = [
   {
     name: "К 613 КУ 147",
     fullname: "DAF XF 480 FT",
-    date: new Date("2025-08-15"),
+    date: new Date("2027-08-17"),
     comment: "",
   },
   {
@@ -680,13 +703,13 @@ const objects2 = [
   {
     name: "В 915 РН 147",
     fullname: "RENAULT T 4x2",
-    date: new Date("2025-08-31"),
+    date: new Date("2027-07-03"),
     comment: "",
   },
   {
     name: "В 653 ХС 147",
     fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-03-01"),
+    date: new Date("2027-03-05"),
     comment: "Нет данных",
   },
   {
@@ -708,6 +731,12 @@ const objects2 = [
     comment: "нет данных",
   },
   {
+    name: "К 580 ХТ 147",
+    fullname: "Volvo FH-Truck 6x2",
+    date: new Date("2027-07-15"),
+    comment: "нет данных",
+  },
+  {
     name: "Е 465 МК 147",
     fullname: "SANY HQC240DE",
     date: new Date("2026-09-18"),
@@ -719,6 +748,18 @@ const objects2 = [
     date: new Date("2026-08-23"),
     comment: "уточнить данные",
   },
+   {
+    name: "К 558 ХР 147",
+    fullname: "SANY 495AS",
+    date: new Date("2026-09-10"),
+    comment: "нет данных",
+  },
+ {
+    name: "К 962 ХK 147",
+    fullname: "SANY 495AS",
+    date: new Date("2026-09-03"),
+    comment: "",
+  },  
   {
     name: "В 077 МК 147",
     fullname: "SCANIA R410А 4X2 NA",
@@ -728,13 +769,13 @@ const objects2 = [
   {
     name: "В 081 СО 147",
     fullname: "SCANIA R4Х200 R450 A4x2NA",
-    date: new Date("2025-06-23"),
+    date: new Date("2027-07-01"),
     comment: "",
   },
   {
     name: "В 090 СО 147",
     fullname: "SCANIA R4Х200 R450 A4x2NA",
-    date: new Date("2025-06-20"),
+    date: new Date("2027-06-25"),
     comment: "",
   },
   {
@@ -782,7 +823,7 @@ const objects2 = [
   {
     name: "В 657 СС 147",
     fullname: "SCANIA R4Х200 R450 A4x2NA",
-    date: new Date("2025-06-28"),
+    date: new Date("2027-07-21"),
     comment: "",
   },
    {
@@ -800,7 +841,7 @@ const objects2 = [
   {
     name: "Р 773 КТ 98",
     fullname: "SCANIA R124 LA 4X2 NA420",
-    date: new Date("2024-04-06"),
+    date: new Date("2027-09-04"),
     comment: "Ремонт",
   },
    
@@ -882,7 +923,12 @@ const objects2 = [
     date: new Date("2026-11-14"),
     comment: "",
   },
-
+ {
+    name: "К 027 УМ 147",
+    fullname: "MERCEDES-BENZ ACTROS 1848 LS",
+    date: new Date("2026-07-17"),
+    comment: "нет данных",
+  },
   {
     name: "К 113 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
@@ -952,7 +998,7 @@ const objects2 = [
   {
     name: "К 840 ВК 147",
     fullname: "MERCEDES-BENZ ACTROS 2553 LS",
-    date: new Date("2025-02-07"),
+    date: new Date("2027-06-11"),
     comment: "",
   },
   {
@@ -1080,3 +1126,4 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
