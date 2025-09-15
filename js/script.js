@@ -424,7 +424,7 @@ const objects1 = [
   {
     name: "АР 7836 47",
     fullname: "KRONE SD",
-    date: new Date("2025-07-23"),
+    date: new Date("2026-07-22"),
     comment: "",
   },
   {
@@ -441,7 +441,7 @@ const objects1 = [
   {
     name: "АT 3008 47",
     fullname: "KRONE SDR27",
-    date: new Date("2025-08-03"),
+    date: new Date("2026-08-20"),
     comment: "",
   },
   {
@@ -483,7 +483,7 @@ const objects1 = [
   {
     name: "АУ 8577 78",
     fullname: "KORTEN COE33",
-    date: new Date("2025-06-13"),
+    date: new Date("2026-07-22"),
     comment: "",
   },
   {
@@ -1126,4 +1126,5 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
