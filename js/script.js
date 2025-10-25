@@ -45,7 +45,7 @@ const objects = [
   {
     name: "В 915 РН 147",
     fullname: "RENAULT T 4x2",
-    date: new Date("2025-10-16"),
+    date: new Date("2026-10-07"),
     comment: "",
   },
   {
@@ -63,7 +63,7 @@ const objects = [
   {
     name: "Е 427 НК 147",
     fullname: "Volvo FH-Truck 6x2",
-    date: new Date("2025-10-03"),
+    date: new Date("2026-10-21"),
     comment: "",
   },
   {
@@ -105,7 +105,7 @@ const objects = [
   {
     name: "В 077 МК 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-10-02"),
+    date: new Date("2026-10-08"),
     comment: "",
   },
   {
@@ -123,13 +123,13 @@ const objects = [
   {
     name: "В 280 ОЕ 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-10-19"),
+    date: new Date("2026-10-20"),
     comment: "",
   },
   {
     name: "В 294 ВО 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-10-17"),
+    date: new Date("2026-10-22"),
     comment: "",
   },
   {
@@ -147,7 +147,7 @@ const objects = [
   {
     name: "В 401 ОА 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-10-17"),
+    date: new Date("2026-10-23"),
     comment: "",
   },
   {
@@ -195,14 +195,14 @@ const objects = [
   {
     name: "В 232 ЕУ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2025-09-26"),
+    date: new Date("2026-10-16"),
     comment: "",
   },
 
   {
     name: "В 368 СУ 47",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2025-10-15"),
+    date: new Date("2026-10-16"),
     comment: "",
   },
   {
@@ -268,7 +268,7 @@ const objects = [
   {
     name: "К 363 АО 147",
     fullname: "MERCEDES-BENZ ACTROS 2541LS",
-    date: new Date("2025-10-22"),
+    date: new Date("2026-10-17"),
     comment: "",
   },
   {
@@ -346,7 +346,7 @@ const objects = [
   {
     name: "У 484 КС 178",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2025-10-19"),
+    date: new Date("2026-09-15"),
     comment: "",
   },
 
@@ -417,7 +417,7 @@ const objects1 = [
   {
     name: "ВР 1656 78",
     fullname: "KOGEL SNC024",
-    date: new Date("2025-03-07"),
+    date: new Date("2026-10-04"),
   },
   {
     name: "АР 8835 47",
@@ -446,7 +446,7 @@ const objects1 = [
   {
     name: "АТ 9106 47",
     fullname: "SCHMITZ SK024/L",
-    date: new Date("2025-10-06"),
+    date: new Date("2026-10-02"),
     comment: "",
   },
   {
@@ -458,7 +458,7 @@ const objects1 = [
   {
     name: "АУ 2432 47",
     fullname: "KOGEL S24",
-    date: new Date("2025-10-17"),
+    date: new Date("2026-10-22"),
     comment: "",
   },
   {
@@ -530,8 +530,8 @@ const objects1 = [
   {
     name: "ВА 3762 47",
     fullname: "SCHMITZ SK024/L-COOL V7",
-    date: new Date("2025-09-22"),
-    comment: "4 года со дня регистрации (170-ФЗ р.15)",
+    date: new Date("2027-07-03"),
+    comment: "",
   },
   {
     name: "ВА 3797 47",
@@ -542,7 +542,7 @@ const objects1 = [
   {
     name: "ВА 4621 47",
     fullname: "SCHMITZ SCF24G",
-    date: new Date("2025-05-08"),
+    date: new Date("2026-10-06"),
     comment: "",
   },
   {
@@ -587,6 +587,18 @@ const objects1 = [
     date: new Date("2028-04-25"),
     comment: "",
   },
+    {
+    name: "ВВ 7461 47",
+    fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
+    date: new Date("2025-06-05"),
+    comment: "нет данных",
+  },
+   {
+    name: "ВВ 9611 47",
+    fullname: "CTTM Cargoline",
+    date: new Date("2025-10-21"),
+    comment: "нет данных",
+  },
   {
     name: "ВК 3300 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
@@ -602,7 +614,13 @@ const objects1 = [
     {
     name: "ВК 3444 47",
     fullname: "SCHMITZ Cargobull",
-    date: new Date("2029-03-06"),
+    date: new Date("2027-06-16"),
+    comment: "",
+  },
+   {
+    name: "ВК 4387 47",
+    fullname: "SCHMITZ Cargobull",
+    date: new Date("2027-08-16"),
     comment: "",
   },
   {
@@ -614,7 +632,7 @@ const objects1 = [
   {
     name: "ВН 1765 78",
     fullname: "KRONE SDR27",
-    date: new Date("2025-08-03"),
+    date: new Date("2026-10-02"),
     comment: "",
   },
   {
@@ -1100,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
