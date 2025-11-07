@@ -858,7 +858,7 @@ const objects2 = [
   {
     name: "В 232 ЕУ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2025-09-21"),
+    date: new Date("2027-10-31"),
     comment: "",
   },
   {
@@ -870,7 +870,7 @@ const objects2 = [
   {
     name: "В 395 ХТ 147",
     fullname: "MERCEDES-BENZ ACTROS 2545LS",
-    date: new Date("2025-03-05"),
+    date: new Date("2026-06-25"),
     comment: "",
   },
   {
@@ -894,7 +894,7 @@ const objects2 = [
   {
     name: "В 986 ЕХ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2025-10-12"),
+    date: new Date("2027-10-20"),
     comment: "",
   },
   {
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
