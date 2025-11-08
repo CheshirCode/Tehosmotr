@@ -31,7 +31,7 @@ const objects = [
     comment: "",
   },
   {
-    name: "В 618 РВ 147",
+    name: "В  РВ 147",
     fullname: "RENAULT T 4x2",
     date: new Date("2025-11-01"),
     comment: "",
@@ -696,7 +696,7 @@ const objects2 = [
   {
     name: "В 618 РВ 147",
     fullname: "RENAULT T 4x2",
-    date: new Date("2025-10-03"),
+    date: new Date("2027-10-22"),
     comment: "",
   },
   {
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
