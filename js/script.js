@@ -31,9 +31,9 @@ const objects = [
     comment: "",
   },
   {
-    name: "В  РВ 147",
+    name: "В 618 РВ 147",
     fullname: "RENAULT T 4x2",
-    date: new Date("2025-11-01"),
+    date: new Date("2026-11-09"),
     comment: "",
   },
   {
@@ -135,7 +135,7 @@ const objects = [
   {
     name: "В 294 ЕУ 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-11-13"),
+    date: new Date("2026-10-24"),
     comment: "Ремонт",
   },
   {
@@ -310,8 +310,8 @@ const objects = [
   {
     name: "К 802 ТУ 147",
     fullname: "MERCEDES-BENZ ACTROS",
-    date: new Date("2025-11-15"),
-    comment: "дата не соответствует 170-ФЗ р.15",
+    date: new Date("2026-05-25"),
+    comment: "",
   },
   {
     name: "К 818 ОХ 147",
@@ -340,7 +340,7 @@ const objects = [
   {
     name: "У 464 НА 178",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2025-11-05"),
+    date: new Date("2026-11-07"),
     comment: "",
   },
   {
@@ -452,7 +452,7 @@ const objects1 = [
   {
     name: "АУ 2424 47",
     fullname: "SCHMITZ SK024",
-    date: new Date("2025-09-16"),
+    date: new Date("2026-10-16"),
     comment: "",
   },
   {
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
