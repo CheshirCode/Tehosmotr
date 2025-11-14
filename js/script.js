@@ -464,7 +464,7 @@ const objects1 = [
   {
     name: "АУ 7775 47",
     fullname: "SCHMITZ SK024/L-13.4FP60 COOL",
-    date: new Date("2025-11-27"),
+    date: new Date("2027-11-14"),
     comment: "",
   },
   {
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
