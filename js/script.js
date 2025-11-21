@@ -996,7 +996,7 @@ const objects2 = [
   {
     name: "О 735 РМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2025-11-13"),
+    date: new Date("2027-11-17"),
     comment: "",
   },
   {
@@ -1008,7 +1008,7 @@ const objects2 = [
   {
     name: "У 484 КС 178",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2025-09-25"),
+    date: new Date("2027-11-20"),
     comment: "",
   },
 
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
