@@ -678,7 +678,7 @@ const objects2 = [
    {
     name: "К 742 УН 147",
     fullname: "VALDAI 45 FB2R13",
-    date: new Date("2025-05-30"),
+    date: new Date("2027-07-09"),
     comment: "данных нет",
   },
   {
@@ -942,7 +942,7 @@ const objects2 = [
   {
     name: "К 484 УА 147",
     fullname: "MERCEDES-BENZ ACTROS 1848",
-    date: new Date("2025-05-30"),
+    date: new Date("2027-08-20"),
     comment: "данных нет",
   },
   {
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
