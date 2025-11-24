@@ -702,7 +702,7 @@ const objects2 = [
   {
     name: "В 648 СМ 147",
     fullname: "RENAULT T 4x2",
-    date: new Date("2025-07-10"),
+    date: new Date("2027-07-02"),
     comment: "",
   },
   {
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
