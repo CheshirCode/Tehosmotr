@@ -9,7 +9,7 @@ const objects = [
   {
     name: "А 644 КС 198",
     fullname: "INTERNATIONAL PROSTAR FL 627 PREMIUM",
-    date: new Date("2025-10-17"),
+    date: new Date("2026-11-29"),
     comment: "",
   },
   {
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
