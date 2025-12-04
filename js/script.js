@@ -596,8 +596,8 @@ const objects1 = [
    {
     name: "ВВ 9611 47",
     fullname: "CTTM Cargoline",
-    date: new Date("2025-10-21"),
-    comment: "нет данных",
+    date: new Date("2029-10-22"),
+    comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
     name: "ВК 3300 47",
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
