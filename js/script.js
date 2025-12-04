@@ -590,8 +590,8 @@ const objects1 = [
     {
     name: "ВВ 7461 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
-    date: new Date("2025-06-05"),
-    comment: "нет данных",
+    date: new Date("2028-06-05"),
+    comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
    {
     name: "ВВ 9611 47",
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
