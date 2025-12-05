@@ -822,7 +822,7 @@ const objects2 = [
   {
     name: "В 406 МУ 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2025-10-23"),
+    date: new Date("2027-10-21"),
     comment: "",
   },
   {
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
