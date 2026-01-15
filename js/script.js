@@ -4,7 +4,7 @@ const objects = [
     name: "Е 229 ОТ 147",
     fullname: "ISUZU 5777LC",
     date: new Date("2026-01-29"),
-    comment: "нет данных",
+    comment: "",
   },
   {
     name: "А 644 КС 198",
@@ -244,7 +244,7 @@ const objects = [
   {
     name: "Е 135 КЕ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2026-01-17"),
+    date: new Date("2027-01-11"),
     comment: "",
   },
   {
@@ -262,7 +262,7 @@ const objects = [
   {
     name: "К 113 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2026-01-10"),
+    date: new Date("2026-12-25"),
     comment: "",
   },
   {
@@ -286,19 +286,19 @@ const objects = [
   {
     name: "К 632 ОВ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2026-01-22"),
+    date: new Date("2026-12-10"),
     comment: "",
   },
   {
     name: "К 638 ОУ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2026-01-17"),
+    date: new Date("2027-01-14"),
     comment: "",
   },
   {
     name: "К 674 ОУ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2026-01-09"),
+    date: new Date("2026-12-28"),
     comment: "",
   },
   {
@@ -494,7 +494,7 @@ const objects1 = [
   {
     name: "АХ 8038 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
-    date: new Date("2026-01-13"),
+    date: new Date("2027-12-18"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
@@ -536,7 +536,7 @@ const objects1 = [
   {
     name: "ВА 3797 47",
     fullname: "SCHMITZ SK024/L-13.4FP60 COOL",
-    date: new Date("2026-01-15"),
+    date: new Date("2027-05-25"),
     comment: "",
   },
   {
@@ -572,7 +572,7 @@ const objects1 = [
   {
     name: "ВА 8399 47",
     fullname: "SCHMITZ SK024/L-16.8FP60 COOL",
-    date: new Date("2025-12-19"),
+    date: new Date("2028-01-06"),
     comment: "",
   },
   {
@@ -644,7 +644,7 @@ const objects1 = [
   {
     name: "ВО 1025 78",
     fullname: "GRAY & ADAMS GA2F/9",
-    date: new Date("2025-12-04"),
+    date: new Date("2026-12-25"),
     comment: "",
   },
   {
@@ -906,7 +906,7 @@ const objects2 = [
   {
     name: "Е 135 КЕ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2026-01-24"),
+    date: new Date("2027-11-12"),
     comment: "",
   },
   {
@@ -924,7 +924,7 @@ const objects2 = [
   {
     name: "К 113 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2026-01-24"),
+    date: new Date("2027-12-24"),
     comment: "",
   },
   {
@@ -960,7 +960,7 @@ const objects2 = [
   {
     name: "К 674 ОУ 147",
     fullname: "MERCEDES-BENZ ACTROS 2648 LS",
-    date: new Date("2026-01-24"),
+    date: new Date("2027-12-29"),
     comment: "",
   },
   {
@@ -1118,6 +1118,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
