@@ -102,6 +102,24 @@ const objects = [
     date: new Date("2026-09-03"),
     comment: "",
   },  
+ {
+    name: "М 038 ЕВ 147",
+    fullname: "SANY 495AS",
+    date: new Date("2026-12-01"),
+    comment: "",
+  },  
+  {
+    name: "М 048 МХ 147",
+    fullname: "SANY 495AS",
+    date: new Date("2026-12-06"),
+    comment: "",
+  },  
+  {
+    name: "М 055 ВТ 147",
+    fullname: "SANY 495AS",
+    date: new Date("2026-12-08"),
+    comment: "",
+  },  
   {
     name: "В 077 МК 147",
     fullname: "SCANIA R410А 4X2 NA",
@@ -166,6 +184,12 @@ const objects = [
     name: "В 657 СС 147",
     fullname: "SCANIA R4Х200 R450 A4x2NA",
     date: new Date("2026-05-16"),
+    comment: "",
+  },
+  {
+    name: "Е 349 АУ 147",
+    fullname: "SCANIA R450",
+    date: new Date("2026-06-27"),
     comment: "",
   },
    {
@@ -354,6 +378,12 @@ const objects = [
 ];
 
 const objects1 = [
+   {
+    name: "ВК 3300 47",
+    fullname: "ISO PAKCS MAXIMA",
+    date: new Date("2027-03-10"),
+    comment: "",
+  },
   {
     name: "ВК 2208 47",
     fullname: "CTTM Cargoline 972240-02",
@@ -362,6 +392,12 @@ const objects1 = [
   },
   {
     name: "ВК 2479 47",
+    fullname: "CTTM Cargoline 972240-02",
+    date: new Date("2028-01-10"),
+    comment: "4 года со дня регистрации (170-ФЗ р.15)",
+  },
+   {
+    name: "ВК 2916 47",
     fullname: "CTTM Cargoline 972240-02",
     date: new Date("2028-01-10"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
@@ -379,11 +415,12 @@ const objects1 = [
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
-    name: "ВК 2916 47",
+    name: "ВК 3880 47",
     fullname: "CTTM Cargoline 972240-02",
-    date: new Date("2028-01-10"),
+    date: new Date("2029-03-24"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
+ 
   {
     name: "АН 3553 47",
     fullname: "VANHOOL S 332",
@@ -590,7 +627,7 @@ const objects1 = [
     {
     name: "ВВ 7461 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
-    date: new Date("2028-06-05"),
+    date: new Date("2028-12-27"),
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
    {
@@ -600,18 +637,6 @@ const objects1 = [
     comment: "4 года со дня регистрации (170-ФЗ р.15)",
   },
   {
-    name: "ВК 3300 47",
-    fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
-    date: new Date("2028-03-04"),
-    comment: "",
-  },
-  {
-    name: "ВК 3300 47",
-    fullname: "SCHMITZ SK024/L-13.4FP COOL V7",
-    date: new Date("2028-03-10"),
-    comment: "",
-  },
-    {
     name: "ВК 3444 47",
     fullname: "SCHMITZ Cargobull",
     date: new Date("2027-06-16"),
@@ -765,6 +790,24 @@ const objects2 = [
     date: new Date("2026-09-03"),
     comment: "",
   },  
+   {
+    name: "М 038 ЕВ 147",
+    fullname: "SANY 495AS",
+    date: new Date("2027-12-02"),
+    comment: "",
+  },  
+  {
+    name: "М 048 МХ 147",
+    fullname: "SANY 495AS",
+    date: new Date("2026-12-05"),
+    comment: "",
+  },  
+  {
+    name: "М 055 ВТ 147",
+    fullname: "SANY 495AS",
+    date: new Date("2026-12-09"),
+    comment: "",
+  },  
   {
     name: "В 077 МК 147",
     fullname: "SCANIA R410А 4X2 NA",
@@ -829,6 +872,12 @@ const objects2 = [
     name: "В 657 СС 147",
     fullname: "SCANIA R4Х200 R450 A4x2NA",
     date: new Date("2027-07-21"),
+    comment: "",
+  },
+  {
+    name: "Е 349 АУ 147",
+    fullname: "SCANIA R450",
+    date: new Date("2027-11-25"),
     comment: "",
   },
    {
@@ -1118,6 +1167,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
