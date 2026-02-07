@@ -84,6 +84,12 @@ const objects = [
     date: new Date("2026-05-22"),
     comment: "",
   },
+   {
+    name: "Е 884 УВ 147",
+    fullname: "SANY HQC41800S1S12E",
+    date: new Date("2027-01-26"),
+    comment: "",
+  },
   {
     name: "К 586 СУ 147",
     fullname: "SANY HQC240DE",
@@ -772,6 +778,12 @@ const objects2 = [
     date: new Date("2026-09-18"),
     comment: "",
   },
+   {
+    name: "Е 884 УВ 147",
+    fullname: "SANY HQC41800S1S12E",
+    date: new Date("2026-01-26"),
+    comment: "нет данных",
+  },
   {
     name: "К 586 СУ 147",
     fullname: "SANY HQC240DE",
@@ -1167,6 +1179,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
