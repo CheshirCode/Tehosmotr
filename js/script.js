@@ -817,8 +817,8 @@ const objects2 = [
   {
     name: "В 077 МК 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2026-03-03"),
-    comment: "",
+    date: new Date("2026-04-17"),
+    comment: "новый тахограф",
   },
   {
     name: "В 081 СО 147",
@@ -1167,6 +1167,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
