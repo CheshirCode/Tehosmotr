@@ -254,12 +254,6 @@ const objects = [
     comment: "",
   },
   {
-    name: "В 669 ХС 147",
-    fullname: "MERCEDES-BENZ ACTROS 1845LS",
-    date: new Date("2026-03-03"),
-    comment: "",
-  },
-  {
     name: "В 986 ЕХ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
     date: new Date("2026-04-10"),
@@ -268,7 +262,7 @@ const objects = [
   {
     name: "В 998 ХР 147",
     fullname: "MERCEDES-BENZ ACTROS 1845LS",
-    date: new Date("2026-02-19"),
+    date: new Date("2027-02-14"),
     comment: "",
   },
   {
@@ -358,7 +352,7 @@ const objects = [
   {
     name: "К 840 ВК 147",
     fullname: "MERCEDES-BENZ ACTROS 2553 LS",
-    date: new Date("2026-03-10"),
+    date: new Date("2027-02-20"),
     comment: "",
   },
   {
@@ -549,7 +543,7 @@ const objects1 = [
   {
     name: "АХ 8820 47",
     fullname: "SCHMITZ SK024/L-COOL V7",
-    date: new Date("2026-01-22"),
+    date: new Date("2028-02-26"),
     comment: "",
   },
   {
@@ -781,8 +775,8 @@ const objects2 = [
    {
     name: "Е 884 УВ 147",
     fullname: "SANY HQC41800S1S12E",
-    date: new Date("2026-01-26"),
-    comment: "нет данных",
+    date: new Date("2028-02-13"),
+    comment: "",
   },
   {
     name: "К 586 СУ 147",
@@ -944,12 +938,6 @@ const objects2 = [
     name: "В 668 НЕ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
     date: new Date("2027-01-15"),
-    comment: "",
-  },
-  {
-    name: "В 669 ХС 147",
-    fullname: "MERCEDES-BENZ ACTROS 1845LS",
-    date: new Date("2026-07-01"),
     comment: "",
   },
   {
@@ -1179,6 +1167,7 @@ function filterObjects() {
 displayObjects(objects, "objects-container");
 displayObjects(objects1, "objects-container1");
 displayObjects(objects2, "objects-container2", true);
+
 
 
 
