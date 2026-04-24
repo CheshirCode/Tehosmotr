@@ -310,7 +310,7 @@ const objects = [
   {
     name: "К 355 ОТ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2026-04-28"),
+    date: new Date("2027-03-28"),
     comment: "",
   },
   {
@@ -352,8 +352,8 @@ const objects = [
   {
     name: "К 818 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2026-04-14"),
-    comment: "дата не соответствует 170-ФЗ р.15",
+    date: new Date("2027-04-24"),
+    comment: "",
   },
   {
     name: "К 837 ВК 147",
@@ -1016,7 +1016,7 @@ const objects2 = [
   {
     name: "К 355 ОТ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2026-05-06"),
+    date: new Date("2028-04-23"),
     comment: "",
   },
   {
@@ -1058,7 +1058,7 @@ const objects2 = [
   {
     name: "К 818 ОХ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2026-05-06"),
+    date: new Date("2027-09-25"),
     comment: "",
   },
   {
