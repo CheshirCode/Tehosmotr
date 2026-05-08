@@ -340,8 +340,8 @@ const objects = [
   {
     name: "К 785 ОС 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2026-05-08"),
-    comment: "дата не соответствует 170-ФЗ р.15",
+    date: new Date("2027-05-08"),
+    comment: "",
   },
   {
     name: "К 802 ТУ 147",
@@ -1046,7 +1046,7 @@ const objects2 = [
   {
     name: "К 785 ОС 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2026-05-06"),
+    date: new Date("2028-05-08"),
     comment: "",
   },
   {
