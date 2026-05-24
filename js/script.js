@@ -108,6 +108,18 @@ const objects = [
     date: new Date("2026-05-27"),
     comment: "1 год со дня регистрации (170-ФЗ р.15)",
   },
+ {
+    name: "Е 711 ХК 147",
+    fullname: "SANY S490 TD4х2G",
+    date: new Date("2026-05-18"),
+    comment: "нет данных",
+  },
+  {
+    name: "Т 200 СЕ 797",
+    fullname: "SANY S490 TD4х2G",
+    date: new Date("2026-05-18"),
+    comment: "нет данных",
+  },
   {
     name: "К 558 ХР 147",
     fullname: "SANY 495AS",
@@ -376,7 +388,7 @@ const objects = [
   {
     name: "О 735 РМ 47",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
-    date: new Date("2026-05-13"),
+    date: new Date("2027-05-12"),
     comment: "",
   },
   {
@@ -442,7 +454,7 @@ const objects1 = [
   {
     name: "АН 3553 47",
     fullname: "VANHOOL S 332",
-    date: new Date("2026-05-21"),
+    date: new Date("2027-05-21"),
     comment: "",
   },
   {
@@ -495,7 +507,7 @@ const objects1 = [
   {
     name: "АT 5500 78",
     fullname: "KRONE SDR27",
-    date: new Date("2026-04-26"),
+    date: new Date("2027-05-08"),
     comment: "",
   },
   {
@@ -531,7 +543,7 @@ const objects1 = [
   {
     name: "АХ 6861 47",
     fullname: "SCHMITZ SK024/L-13.4FP COOL",
-    date: new Date("2026-05-21"),
+    date: new Date("2028-05-15"),
     comment: "",
   },
   {
@@ -669,7 +681,7 @@ const objects1 = [
   {
     name: "ВМ 6270 78",
     fullname: "SCHMITZ SK024/L",
-    date: new Date("2026-05-11"),
+    date: new Date("2027-05-12"),
     comment: "",
   },
   {
@@ -814,6 +826,18 @@ const objects2 = [
     fullname: "SANY HQC240DE",
     date: new Date("2026-08-23"),
     comment: "уточнить данные",
+  },
+  {
+    name: "Е 711 ХК 147",
+    fullname: "SANY S490 TD4х2G",
+    date: new Date("2026-05-18"),
+    comment: "нет данных",
+  },
+  {
+    name: "Т 200 СЕ 797",
+    fullname: "SANY S490 TD4х2G",
+    date: new Date("2026-05-18"),
+    comment: "нет данных",
   },
   {
     name: "К 558 ХР 147",
