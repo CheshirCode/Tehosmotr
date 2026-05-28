@@ -3,7 +3,7 @@ const objects = [
   {
     name: "Е 229 ОТ 147",
     fullname: "ISUZU 5777LC",
-    date: new Date("2026-01-29"),
+    date: new Date("2027-05-22"),
     comment: "",
   },
   {
@@ -27,8 +27,8 @@ const objects = [
   {
     name: "К 742 УН 147",
     fullname: "VALDAI 45 FB2R13",
-    date: new Date("2026-05-28"),
-    comment: "данных нет",
+    date: new Date("2027-05-25"),
+    comment: "",
   },
   {
     name: "К 613 КУ 147",
@@ -39,7 +39,7 @@ const objects = [
   {
     name: "К 984 ЕО 147",
     fullname: "DAF XF 530 FT",
-    date: new Date("2025-11-08"),
+    date: new Date("2027-05-22"),
     comment: "",
   },
   {
@@ -93,7 +93,7 @@ const objects = [
   {
     name: "Е 465 МК 147",
     fullname: "SANY HQC240DE",
-    date: new Date("2026-05-22"),
+    date: new Date("2027-05-23"),
     comment: "",
   },
   {
@@ -111,8 +111,8 @@ const objects = [
  {
     name: "Е 711 ХК 147",
     fullname: "SANY S490 TD4х2G",
-    date: new Date("2026-05-18"),
-    comment: "нет данных",
+    date: new Date("2027-05-26"),
+    comment: "",
   },
   {
     name: "Т 200 СЕ 797",
@@ -213,7 +213,7 @@ const objects = [
   {
     name: "В 657 СС 147",
     fullname: "SCANIA R4Х200 R450 A4x2NA",
-    date: new Date("2026-05-16"),
+    date: new Date("2027-05-24"),
     comment: "",
   },
   {
@@ -231,7 +231,7 @@ const objects = [
   {
     name: "К 502 ХН 147",
     fullname: "SCANIA R500A 6X2 NA",
-    date: new Date("2026-05-11"),
+    date: new Date("2027-05-22"),
     comment: "",
   },
   {
@@ -358,7 +358,7 @@ const objects = [
   {
     name: "К 802 ТУ 147",
     fullname: "MERCEDES-BENZ ACTROS",
-    date: new Date("2026-05-25"),
+    date: new Date("2027-05-27"),
     comment: "",
   },
   {
@@ -382,8 +382,8 @@ const objects = [
   {
     name: "М 312 КО 47",
     fullname: "MERCEDES-BENZ ACTROS 1848LS",
-    date: new Date("2026-04-06"),
-    comment: "данных нет",
+    date: new Date("2027-05-25"),
+    comment: "",
   },
   {
     name: "О 735 РМ 47",
@@ -615,7 +615,7 @@ const objects1 = [
   {
     name: "ВА 8177 47",
     fullname: "SCHMITZ SK024/L-16.8FP60 COOL",
-    date: new Date("2026-05-25"),
+    date: new Date("2028-05-22"),
     comment: "",
   },
   {
@@ -693,7 +693,7 @@ const objects1 = [
   {
     name: "ВН 8163 78",
     fullname: "GRAY & ADAMS GA3B/5-R",
-    date: new Date("2026-03-25"),
+    date: new Date("2027-05-22"),
     comment: "",
   },
   {
@@ -951,7 +951,7 @@ const objects2 = [
     name: "К 502 ХН 147",
     fullname: "SCANIA R500A 6X2 NA",
     date: new Date("2027-05-13"),
-    comment: "уточнить данные",
+    comment: "",
   },
   {
     name: "Р 773 КТ 98",
@@ -1100,8 +1100,8 @@ const objects2 = [
   {
     name: "М 312 КО 47",
     fullname: "MERCEDES-BENZ ACTROS 1848LS",
-    date: new Date("2026-04-06"),
-    comment: "данных нет",
+    date: new Date("2028-05-21"),
+    comment: "",
   },
   {
     name: "О 735 РМ 47",
