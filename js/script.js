@@ -105,8 +105,8 @@ const objects = [
   {
     name: "К 586 СУ 147",
     fullname: "SANY HQC240DE",
-    date: new Date("2026-05-27"),
-    comment: "1 год со дня регистрации (170-ФЗ р.15)",
+    date: new Date("2027-05-23"),
+    comment: "",
   },
  {
     name: "Е 711 ХК 147",
@@ -207,7 +207,7 @@ const objects = [
   {
     name: "В 406 МУ 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2026-05-27"),
+    date: new Date("2027-05-28"),
     comment: "",
   },
   {
@@ -370,7 +370,7 @@ const objects = [
   {
     name: "К 837 ВК 147",
     fullname: "MERCEDES-BENZ ACTROS 2553 LS",
-    date: new Date("2026-05-25"),
+    date: new Date("2027-05-29"),
     comment: "",
   },
   {
