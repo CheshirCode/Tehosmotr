@@ -115,7 +115,7 @@ const objects = [
     comment: "",
   },
   {
-    name: "Т 200 СЕ 797",
+    name: "Е 977 ХК 147",
     fullname: "SANY S490 TD4х2G",
     date: new Date("2026-05-18"),
     comment: "нет данных",
@@ -834,7 +834,7 @@ const objects2 = [
     comment: "нет данных",
   },
   {
-    name: "Т 200 СЕ 797",
+    name: "Е 977 ХК 147",
     fullname: "SANY S490 TD4х2G",
     date: new Date("2026-05-18"),
     comment: "нет данных",
