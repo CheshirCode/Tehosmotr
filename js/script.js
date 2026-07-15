@@ -189,7 +189,7 @@ const objects = [
   {
     name: "В 358 ОС 147",
     fullname: "SCANIA SA 4X2 NA",
-    date: new Date("2026-06-27"),
+    date: new Date("2027-06-18"),
     comment: "",
   },
   {
@@ -219,7 +219,7 @@ const objects = [
   {
     name: "Е 349 АУ 147",
     fullname: "SCANIA R450",
-    date: new Date("2026-06-27"),
+    date: new Date("2027-07-07"),
     comment: "",
   },
   {
@@ -328,7 +328,7 @@ const objects = [
   {
     name: "К 484 УА 147",
     fullname: "MERCEDES-BENZ ACTROS 1848",
-    date: new Date("2026-06-26"),
+    date: new Date("2027-06-16"),
     comment: "данных нет",
   },
   {
@@ -460,7 +460,7 @@ const objects1 = [
   {
     name: "АН 8637 78",
     fullname: "SCHMITZ SCO24",
-    date: new Date("2026-06-09"),
+    date: new Date("2027-06-27"),
     comment: "",
   },
   {
@@ -478,7 +478,7 @@ const objects1 = [
   {
     name: "АР 7836 47",
     fullname: "KRONE SD",
-    date: new Date("2026-07-22"),
+    date: new Date("2027-04-25"),
     comment: "",
   },
   {
@@ -537,7 +537,7 @@ const objects1 = [
   {
     name: "АУ 8577 78",
     fullname: "KORTEN COE33",
-    date: new Date("2026-07-22"),
+    date: new Date("2027-07-07"),
     comment: "",
   },
   {
@@ -980,7 +980,7 @@ const objects2 = [
   {
     name: "В 395 ХТ 147",
     fullname: "MERCEDES-BENZ ACTROS 2545LS",
-    date: new Date("2026-06-25"),
+    date: new Date("2026-03-05"),
     comment: "",
   },
   {
@@ -1022,7 +1022,7 @@ const objects2 = [
   {
     name: "К 027 УМ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2026-07-17"),
+    date: new Date("2027-07-17"),
     comment: "нет данных",
   },
   {
