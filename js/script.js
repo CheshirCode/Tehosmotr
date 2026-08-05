@@ -896,7 +896,7 @@ const objects2 = [
   {
     name: "В 294 ВО 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2026-08-08"),
+    date: new Date("2028-08-04"),
     comment: "",
   },
   {
