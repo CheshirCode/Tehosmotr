@@ -501,7 +501,7 @@ const objects1 = [
   {
     name: "АT 3123 47",
     fullname: "LAMBERET",
-    date: new Date("2026-05-10"),
+    date: new Date("2027-07-17"),
     comment: "",
   },
   {
