@@ -169,7 +169,7 @@ const objects = [
     comment: "",
   },
   {
-    name: "В 280 ОЕ 147",
+    name: "В  ОЕ 147",
     fullname: "SCANIA R410А 4X2 NA",
     date: new Date("2026-10-20"),
     comment: "",
@@ -890,7 +890,7 @@ const objects2 = [
   {
     name: "В 280 ОЕ 147",
     fullname: "SCANIA R410А 4X2 NA",
-    date: new Date("2026-08-13"),
+    date: new Date("2028-08-11"),
     comment: "",
   },
   {
