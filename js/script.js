@@ -33,7 +33,7 @@ const objects = [
   {
     name: "К 613 КУ 147",
     fullname: "DAF XF 480 FT",
-    date: new Date("2026-08-17"),
+    date: new Date("2027-08-11"),
     comment: "",
   },
   {
@@ -304,7 +304,7 @@ const objects = [
   {
     name: "К 027 УМ 147",
     fullname: "MERCEDES-BENZ ACTROS 1848 LS",
-    date: new Date("2026-07-17"),
+    date: new Date("2027-08-03"),
     comment: "",
   },
   {
@@ -1004,7 +1004,7 @@ const objects2 = [
   {
     name: "В 998 ХР 147",
     fullname: "MERCEDES-BENZ ACTROS 1845LS",
-    date: new Date("2026-07-12"),
+    date: new Date("2028-08-08"),
     comment: "",
   },
   {
