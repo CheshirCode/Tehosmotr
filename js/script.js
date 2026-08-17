@@ -109,7 +109,7 @@ const objects = [
     comment: "",
   },
  {
-    name: "Е 711 ХК 147",
+    name: "Е  ХК 147",
     fullname: "SANY S490 TD4х2G",
     date: new Date("2027-05-26"),
     comment: "",
@@ -830,7 +830,7 @@ const objects2 = [
   {
     name: "Е 711 ХК 147",
     fullname: "SANY S490 TD4х2G",
-    date: new Date("2026-05-18"),
+    date: new Date("2028-05-18"),
     comment: "нет данных",
   },
   {
