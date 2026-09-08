@@ -16,7 +16,7 @@ const objects = [
    {
     name: "М 322 АУ 147",
     fullname: "FOTON TOANO",
-    date: new Date("2027-05-22"),
+   date: new Date("2026-09-01"),
     comment: "уточнить данные",
   },
  {
@@ -786,19 +786,19 @@ const objects2 = [
    {
     name: "В 716 УА 47",
     fullname: "2844 SA",
-    date: new Date("2027-05-22"),
+   date: new Date("2026-09-01"),
     comment: "уточнить данные",
   },
    {
     name: "Е 956 УЕ 147",
     fullname: "FOTON TOANO",
-    date: new Date("2027-05-22"),
+    date: new Date("2026-09-01"),
     comment: "уточнить данные",
   },
    {
     name: "М 322 АУ 147",
     fullname: "FOTON TOANO",
-    date: new Date("2027-05-22"),
+    date: new Date("2026-09-01"),
     comment: "уточнить данные",
   },
  {
