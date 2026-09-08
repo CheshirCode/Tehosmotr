@@ -4,13 +4,13 @@ const objects = [
    {
     name: "В 716 УА 47",
     fullname: "2844 SA",
-    date: new Date("2027-05-22"),
+    date: new Date("2026-09-01"),
     comment: "уточнить данные",
   },
    {
     name: "Е 956 УЕ 147",
     fullname: "FOTON TOANO",
-    date: new Date("2027-05-22"),
+    date: new Date("2026-09-01"),
     comment: "уточнить данные",
   },
    {
@@ -22,13 +22,13 @@ const objects = [
  {
     name: "М 500 ЕХ 147",
     fullname: "FOTON AUMAN",
-    date: new Date("2027-05-22"),
+    date: new Date("2026-08-12"),
     comment: "уточнить данные",
   },
    {
     name: "М 997 КВ 147",
     fullname: "FOTON AUMAN",
-    date: new Date("2027-05-22"),
+    date: new Date("2027-08-17"),
     comment: "уточнить данные",
   },
   
@@ -63,17 +63,18 @@ const objects = [
     comment: "",
   },
   {
-    name: "М 953 ЕУ 147",
+    name: "М 482 КХ 147",
     fullname: "VALDAI 8",
-    date: new Date("2027-06-03"),
-    comment: "уточнить данные",
-  },
-  {
-    name: "Х ХХХ ХХ 147",
-    fullname: "VALDAI 8",
-    date: new Date("2027-06-03"),
+    date: new Date("2026-08-27"),
    comment: "уточнить данные",
   },
+  {
+    name: "М 953 ЕУ 147",
+    fullname: "VALDAI 8",
+    date: new Date("2027-09-02"),
+    comment: "",
+  },
+ 
   {
     name: "К 613 КУ 147",
     fullname: "DAF XF 480 FT",
@@ -161,7 +162,7 @@ const objects = [
    {
     name: "Е 711 ХК 147",
     fullname: "SANY S490 TD4х2G",
-    date: new Date("2027-06-03"),
+    date: new Date("2027-05-26"),
     comment: "",
   },
   {
@@ -843,18 +844,19 @@ const objects2 = [
     date: new Date("2027-07-09"),
     comment: "данных нет",
   },
+    {
+    name: "М 482 КХ 147",
+    fullname: "VALDAI 8",
+    date: new Date("2026-08-27"),
+   comment: "уточнить данные",
+  },
   {
     name: "М 953 ЕУ 147",
     fullname: "VALDAI 8",
     date: new Date("2027-06-03"),
     comment: "уточнить данные",
   },
-  {
-    name: "Х ХХХ ХХ 147",
-    fullname: "VALDAI 8",
-    date: new Date("2027-06-03"),
-   comment: "уточнить данные",
-  },
+ 
   {
     name: "К 613 КУ 147",
     fullname: "DAF XF 480 FT",
