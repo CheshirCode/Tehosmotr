@@ -1,5 +1,37 @@
 // Шаг 1: Создаем массив объектов
 const objects = [
+   
+   {
+    name: "В 716 УА 47",
+    fullname: "2844 SA",
+    date: new Date("2027-05-22"),
+    comment: "уточнить данные",
+  },
+   {
+    name: "Е 956 УЕ 147",
+    fullname: "FOTON TOANO",
+    date: new Date("2027-05-22"),
+    comment: "уточнить данные",
+  },
+   {
+    name: "М 322 АУ 147",
+    fullname: "FOTON TOANO",
+    date: new Date("2027-05-22"),
+    comment: "уточнить данные",
+  },
+ {
+    name: "М 500 ЕХ 147",
+    fullname: "FOTON AUMAN",
+    date: new Date("2027-05-22"),
+    comment: "уточнить данные",
+  },
+   {
+    name: "М 997 КВ 147",
+    fullname: "FOTON AUMAN",
+    date: new Date("2027-05-22"),
+    comment: "уточнить данные",
+  },
+  
   {
     name: "Е 229 ОТ 147",
     fullname: "ISUZU 5777LC",
@@ -29,6 +61,18 @@ const objects = [
     fullname: "VALDAI 45 FB2R13",
     date: new Date("2027-05-25"),
     comment: "",
+  },
+  {
+    name: "М 953 ЕУ 147",
+    fullname: "VALDAI 8",
+    date: new Date("2027-06-03"),
+    comment: "уточнить данные",
+  },
+  {
+    name: "Х ХХХ ХХ 147",
+    fullname: "VALDAI 8",
+    date: new Date("2027-06-03"),
+   comment: "уточнить данные",
   },
   {
     name: "К 613 КУ 147",
@@ -112,6 +156,12 @@ const objects = [
     name: "Е  ХК 147",
     fullname: "SANY S490 TD4х2G",
     date: new Date("2027-05-26"),
+    comment: "",
+  },
+   {
+    name: "Е 711 ХК 147",
+    fullname: "SANY S490 TD4х2G",
+    date: new Date("2027-06-03"),
     comment: "",
   },
   {
@@ -714,10 +764,54 @@ const objects1 = [
     date: new Date("2025-07-16"),
     comment: "",
   },
+  {
+    name: "ВК 5786 47",
+    fullname: "MEUSBURGER NOVTRUCK VSP-454",
+    date: new Date("2027-06-03"),
+    comment: "уточнить данные",
+  },
+   {
+    name: "АР 8759 47",
+    fullname: "SCO-24",
+    date: new Date("2027-06-03"),
+    comment: "уточнить данные",
+  },
+ 
   // ...
 ];
 
 const objects2 = [
+
+   {
+    name: "В 716 УА 47",
+    fullname: "2844 SA",
+    date: new Date("2027-05-22"),
+    comment: "уточнить данные",
+  },
+   {
+    name: "Е 956 УЕ 147",
+    fullname: "FOTON TOANO",
+    date: new Date("2027-05-22"),
+    comment: "уточнить данные",
+  },
+   {
+    name: "М 322 АУ 147",
+    fullname: "FOTON TOANO",
+    date: new Date("2027-05-22"),
+    comment: "уточнить данные",
+  },
+ {
+    name: "М 500 ЕХ 147",
+    fullname: "FOTON AUMAN",
+    date: new Date("2027-05-22"),
+    comment: "уточнить данные",
+  },
+   {
+    name: "М 997 КВ 147",
+    fullname: "FOTON AUMAN",
+    date: new Date("2027-05-22"),
+    comment: "уточнить данные",
+  },
   {
     name: "Е 229 ОТ 147",
     fullname: "ISUZU 5777LC",
@@ -748,6 +842,18 @@ const objects2 = [
     fullname: "VALDAI 45 FB2R13",
     date: new Date("2027-07-09"),
     comment: "данных нет",
+  },
+  {
+    name: "М 953 ЕУ 147",
+    fullname: "VALDAI 8",
+    date: new Date("2027-06-03"),
+    comment: "уточнить данные",
+  },
+  {
+    name: "Х ХХХ ХХ 147",
+    fullname: "VALDAI 8",
+    date: new Date("2027-06-03"),
+   comment: "уточнить данные",
   },
   {
     name: "К 613 КУ 147",
