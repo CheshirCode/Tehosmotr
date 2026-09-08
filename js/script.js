@@ -174,13 +174,13 @@ const objects = [
   {
     name: "К 558 ХР 147",
     fullname: "SANY 495AS",
-    date: new Date("2026-09-10"),
+    date: new Date("2027-09-03"),
     comment: "",
   },
   {
     name: "К 962 ХK 147",
     fullname: "SANY 495AS",
-    date: new Date("2026-09-03"),
+    date: new Date("2027-08-23"),
     comment: "",
   },
   {
@@ -291,12 +291,7 @@ const objects = [
     date: new Date("2025-12-03"),
     comment: "Ремонт",
   },
-  // {
-  //   name: "В 213 ТМ 47",
-  //   fullname: "MERCEDES-BENZ ACTROS 1841LS",
-  //   date: new Date("2026-04-08"),
-  //   comment: "",
-  // },
+ 
   {
     name: "В 232 ЕУ 147",
     fullname: "MERCEDES-BENZ ACTROS 1844LS",
@@ -313,7 +308,7 @@ const objects = [
   {
     name: "В 395 ХТ 147",
     fullname: "MERCEDES-BENZ ACTROS 2545LS",
-    date: new Date("2026-06-25"),
+    date: new Date("2027-08-26"),
     comment: "",
   },
   {
@@ -451,7 +446,7 @@ const objects = [
   {
     name: "У 484 КС 178",
     fullname: "MERCEDES-BENZ ACTROS 1841LS",
-    date: new Date("2026-09-15"),
+    date: new Date("2026-12-05"),
     comment: "",
   },
 
@@ -546,7 +541,7 @@ const objects1 = [
   {
     name: "АT 3008 47",
     fullname: "KRONE SDR27",
-    date: new Date("2026-08-20"),
+    date: new Date("2027-08-26"),
     comment: "",
   },
   {
@@ -768,8 +763,8 @@ const objects1 = [
   {
     name: "ВК 5786 47",
     fullname: "MEUSBURGER NOVTRUCK VSP-454",
-    date: new Date("2027-06-03"),
-    comment: "уточнить данные",
+    date: new Date("2028-07-11"),
+    comment: "",
   },
    {
     name: "АР 8759 47",
@@ -950,13 +945,13 @@ const objects2 = [
   {
     name: "К 558 ХР 147",
     fullname: "SANY 495AS",
-    date: new Date("2026-09-10"),
-    comment: "нет данных",
+    date: new Date("2028-03-10"),
+    comment: "",
   },
   {
     name: "К 962 ХK 147",
     fullname: "SANY 495AS",
-    date: new Date("2026-09-03"),
+    date: new Date("2027-09-03"),
     comment: "",
   },
   {
