@@ -238,19 +238,19 @@ const objects = [
     comment: "Ремонт",
   },
   {
-    name: "В  ОС 147",
+    name: "В 358 ОС 147",
     fullname: "SCANIA SA 4X2 NA",
     date: new Date("2027-06-18"),
     comment: "",
   },
   {
-    name: "В  ОА 147",
+    name: "В 401 ОА 147",
     fullname: "SCANIA R410А 4X2 NA",
     date: new Date("2026-10-23"),
     comment: "",
   },
   {
-    name: "В  МС 147",
+    name: "В 403 МС 147",
     fullname: "SCANIA R410А 4X2 NA",
     date: new Date("2027-07-24"),
     comment: "",
