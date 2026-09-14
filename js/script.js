@@ -238,7 +238,7 @@ const objects = [
     comment: "Ремонт",
   },
   {
-    name: "В 358 ОС 147",
+    name: "В  ОС 147",
     fullname: "SCANIA SA 4X2 NA",
     date: new Date("2027-06-18"),
     comment: "",
@@ -1011,7 +1011,7 @@ const objects2 = [
   {
     name: "В 358 ОС 147",
     fullname: "SCANIA S500A 4X2 NA",
-    date: new Date("2026-09-27"),
+    date: new Date("2028-09-12"),
     comment: "",
   },
   {
@@ -1089,7 +1089,7 @@ const objects2 = [
   {
     name: "В 496 ХХ 147",
     fullname: "MERCEDES-BENZ ACTROS 2544LS",
-    date: new Date("2026-10-25"),
+    date: new Date("2028-09-14"),
     comment: "",
   },
   {
